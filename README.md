@@ -12,3 +12,4 @@ Digital Creative for Everyone
 
 Coding Camp for Professionals
 
+Digital Literacy
