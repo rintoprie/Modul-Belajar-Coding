@@ -51,3 +51,13 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 Server, Database, Network
 
 ## Digital Literacy
+
+## Learning Path
+```mermaid
+graph LR
+A[Puzzle-based] --> B[Easy Games]
+A --> C[Story & Animation]
+B --> D[How Scratch Works]
+C --> D
+D --> E[Basic Algorithm with Scratch]
+```
