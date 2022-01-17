@@ -1,12 +1,29 @@
+
 # Modul-Belajar-Coding
 
 ## Code Explorers
 - **Dasar Pemrograman**
 Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)
+Modul:
+	1. Basic Programming with Scratch
+
 - **Easy Games**
 Membuat permainan sederhana menggunakan Scratch/AppInventor
+Modul:
+	1. Basic Programming with Scratch
+	2. Easy Games with Scratch
+		a. Game Elements 
+		b. Simple Games
+		c. Game Arts
+		
 - **Story & Animation**
 Membuat cerita dan animasi menggunakan Scratch/AppInventor
+Modul:
+	1. Basic Programming with Scratch
+	2. Story & Animation with Scratch
+		a. Story Elements
+		b. Simple Animation
+		c. Interactivity
 
 ## Creative Coders
 - **Game**
