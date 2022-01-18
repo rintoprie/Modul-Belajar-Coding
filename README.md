@@ -2,26 +2,14 @@
 # Modul-Belajar-Coding
 
 ## Code Explorers
-- **[Dasar Pemrograman](Puzzle-Based/Dasar-Pemrograman.md)**<br/>
+- **[Dasar Pemrograman](Puzzle-Based/Dasar-Pemrograman.md)**
 Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)
 
-- **Easy Games**
+- **[Easy Games](Puzzle-based/Easy-Games.md)**
 Membuat permainan sederhana menggunakan Scratch/AppInventor
-Modul:
-	1. Basic Programming with Scratch
-	2. Easy Games with Scratch
-		a. Game Elements 
-		b. Simple Games
-		c. Game Arts
 		
-- **Story & Animation**
+- **[Story & Animation](Puzzle-based/Story-Animation.md)**
 Membuat cerita dan animasi menggunakan Scratch/AppInventor
-Modul:
-	1. Basic Programming with Scratch
-	2. Story & Animation with Scratch
-		a. Story Elements
-		b. Simple Animation
-		c. Interactivity
 
 ## Creative Coders
 - **Game**
@@ -35,8 +23,8 @@ Belajar membuat game menggunakan Python, JavaScript, atau Unity
 - **Web**
 Belajar membuat web menggunakan  HTML/CSS dan PHP/Python/Java/ JavaScript
 - **Mobile** 
-Belajar membuat aplikasi Android menggunakan Java atau - **Flutter**
-AI/Data Science menggunakan Python
+Belajar membuat aplikasi Android menggunakan Java atau Flutter
+- **AI/Data Science** menggunakan Python
 
 ## Innovators
 - **Elektronika Dasar**
