@@ -2,13 +2,8 @@
 # Modul-Belajar-Coding
 
 ## Code Explorers
-- **Dasar Pemrograman**
-Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)<br/>
-Modul:
-1. Basic Programming with Scratch
-1. First list item
-   - First nested list item
-     - Second nested list item
+- **[Dasar Pemrograman](Puzzle-Based/Dasar-Pemrograman.md)**
+Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)
 
 - **Easy Games**
 Membuat permainan sederhana menggunakan Scratch/AppInventor
