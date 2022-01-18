@@ -3,9 +3,9 @@
 
 ## Code Explorers
 - **Dasar Pemrograman**
-Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)
+Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)<br/>
 Modul:
-	1. Basic Programming with Scratch
+1. Basic Programming with Scratch
 1. First list item
    - First nested list item
      - Second nested list item
