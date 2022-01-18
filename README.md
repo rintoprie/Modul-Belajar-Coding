@@ -2,7 +2,7 @@
 # Modul-Belajar-Coding
 
 ## Code Explorers
-- **[Dasar Pemrograman](Puzzle-Based/Dasar-Pemrograman.md)**
+- **[Dasar Pemrograman](Puzzle-Based/Dasar-Pemrograman.md)**<br/>
 Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)
 
 - **Easy Games**
