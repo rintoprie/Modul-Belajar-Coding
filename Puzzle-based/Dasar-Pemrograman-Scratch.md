@@ -32,10 +32,9 @@
 
 ## Extension
 - Text to speech
-- Camera
+- Video Sensing
 - Music
-
-
+- Pen
 
 ## Challenges
 - Simple game
