@@ -19,19 +19,47 @@ Membuat cerita dan animasi
 	- [Menggunakan AppInventor](Puzzle-based/Story-Animation-AppInventor.md)
 
 ## Creative Coders
+- **Dasar Pemrograman** 
+Belajar logika pemrograman
+	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
+	- [Menggunakan JavaScript](Text-based/Dasar-Pemrograman-JavaScript.md)
 - **Game**
-Belajar membuat game menggunakan Python dan AppInventor (Mobile Game)
+Belajar membuat game
+	- [Menggunakan Python](Text-based/Game-Python.md)
+	- [Menggunakan JavaScript](Text-based/Game-JavaScript.md)
+	- [Menggunakan AppInventor (Mobile Game)](Text-based/Game-AppInventor.md)
 - **Web**
-Belajar membuat website menggunakan Python & HTML/CSS/JavaScript
+Belajar membuat website
+	- [Menggunakan Python](Text-based/Web-Python.md)
+	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 
 ## Junior Programmer
+- **Dasar Pemrograman** 
+Belajar logika pemrograman
+	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
+	- [Menggunakan JavaScript](Text-based/Dasar-Pemrograman-JavaScript.md)
+	- [Menggunakan Java](Text-based/Dasar-Pemrograman-Java.md)
+	- [Menggunakan PHP](Text-based/Dasar-Pemrograman-PHP.md)
+	- [Menggunakan VisualBasic (.NET)](Text-based/Dasar-Pemrograman-VB.md)
 - **Game**
-Belajar membuat game menggunakan Python, JavaScript, atau Unity
+Belajar membuat game
+	- [Menggunakan Python](Text-based/Game-Python.md)
+	- [Menggunakan JavaScript](Text-based/Game-JavaScript.md)
+	- [Menggunakan Unity](Text-based/Game-Unity.md)
 - **Web**
-Belajar membuat web menggunakan  HTML/CSS dan PHP/Python/Java/ JavaScript
+Belajar membuat website
+	- [Menggunakan Python](Text-based/Web-Python.md)
+	- [Menggunakan Java](Text-based/Web-Java.md)
+	- [Menggunakan PHP](Text-based/Web-PHP.md)
+	- [Menggunakan JavaScript](Text-based/Web-JavaScript.md)
+	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 - **Mobile** 
-Belajar membuat aplikasi Android menggunakan Java atau Flutter
-- **AI/Data Science** menggunakan Python
+Belajar membuat aplikasi Android
+	- [Menggunakan Java](Text-based/Mobile-Java.md)
+	- [Menggunakan Flutter](Text-based/Mobile-Flutter.md)
+- **AI/Data Science** 
+Belajar Machine Learning dan Data Science
+	- [Menggunakan Python](Text-based/MLDS-Python.md)
 
 ## Innovators
 - **Elektronika Dasar**
