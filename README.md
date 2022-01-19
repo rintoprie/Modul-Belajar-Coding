@@ -6,6 +6,7 @@
 Belajar logika pemrograman menggunakan puzzle-based platform
 	- [Menggunakan Scratch](Puzzle-based/Dasar-Pemrograman-Scratch.md)
 	- [Menggunakan AppInventor](Puzzle-based/Dasar-Pemrograman-AppInventor.md)
+	- [Menggunakan TurtleArt](Puzzle-based/Dasar-Pemrograman-TurtleArt.md)
 
 - **Easy Games**
 Membuat aplikasi permainan sederhana
