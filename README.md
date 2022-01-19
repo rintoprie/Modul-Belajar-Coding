@@ -64,8 +64,16 @@ Belajar Machine Learning dan Data Science
 ## Innovators
 - **Elektronika Dasar**:
 Belajar dasar elektronika yang dibutuhkan untuk membuat robot.
+- **Dasar Pemrograman**: 
+Belajar dasar pemrograman pada platform perangkat keras
+	- [Arduino](Hardware/Dasar-Pemrograman-Arduino.md)
+	- [Raspberry Pi (menggunakan Python)](Hardware/Dasar-Pemrograman-RaspberryPi.md)
 - **Robotika Kreatif**:
 Belajar mekanika dan automation, sensor dan aktuator, kontrol dan komunikasi dengan robot
+- [Sensors](Hardware/Sensors.md)
+- [Actuators](Hardware/Actuators.md)
+- [Mekanika & Automation](Hardware/MechanicAutomation.md)
+- [Komunikasi & Integrasi](Hardware/Connectivity.md)
 
 ## Digital Creative for Everyone
 Bikin aplikasi digital #tanpacoding
