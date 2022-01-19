@@ -2,14 +2,20 @@
 # Modul-Belajar-Coding
 
 ## Code Explorers
-- **[Dasar Pemrograman](Puzzle-Based/Dasar-Pemrograman.md)**
-Belajar logika pemrograman menggunakan puzzle-based platform (Scratch/AppInventor)
+- **Dasar Pemrograman** 
+Belajar logika pemrograman menggunakan puzzle-based platform
+	- [Menggunakan Scratch](Puzzle-based/Dasar-Pemrograman-Scratch.md)
+	- [Menggunakan AppInventor](Puzzle-based/Dasar-Pemrograman-AppInventor.md)
 
-- **[Easy Games](Puzzle-based/Easy-Games.md)**
-Membuat permainan sederhana menggunakan Scratch/AppInventor
+- **Easy Games**
+Membuat aplikasi permainan sederhana
+	- [Menggunakan Scratch](Puzzle-based/Easy-Games-Scratch.md)
+	- [Menggunakan AppInventor](Puzzle-based/Easy-Games-AppInventor.md)
 		
-- **[Story & Animation](Puzzle-based/Story-Animation.md)**
-Membuat cerita dan animasi menggunakan Scratch/AppInventor
+- **Story & Animation**
+Membuat cerita dan animasi
+	- [Menggunakan Scratch](Puzzle-based/Story-Animation-Scratch.md)
+	- [Menggunakan AppInventor](Puzzle-based/Story-Animation-AppInventor.md)
 
 ## Creative Coders
 - **Game**
