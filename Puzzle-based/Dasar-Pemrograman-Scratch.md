@@ -24,10 +24,9 @@
 
 ## Mengenal algoritma dasar
 - Events
-  - When: 
 - Control
-  - Loop:
-  - Conditional:
+  - Loop
+  - Conditional
 - Variables
 - Function/Blocks
 
@@ -42,6 +41,7 @@
 - Simple game
 - Story
 - Animation
+- TurtleArt
 - Remix
 
 ## What's next
