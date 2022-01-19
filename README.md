@@ -6,6 +6,7 @@ Modul ini terdiri atas beberapa bagian:
 2. [Modul belajar coding untuk profesional](Coding-for-Professionals.md)
 3. [Modul belajar literasi digital dan digital leadership](Digital-Literacy.md)
 4. [Coding Games](#coding-games)
+5. [Free Coding Course](#free-coding-course)
 
 ## Coding Games
 - [Hour of Code](https://hourofcode.com/id)
@@ -23,3 +24,16 @@ Modul ini terdiri atas beberapa bagian:
 - [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) Ruby
 - [Screeps](https://screeps.com/) MMO sandbox game for programmers
 - [SQL Murder Mystery](http://mystery.knightlab.com/) SQL query
+
+## Free Coding Course
+coursera. org
+sololearn. com
+programiz. com
+codewars. com
+w3schools. com
+studytonight. com
+khanacademy. org
+codecademy. com
+freecodecamp. org
+geeksforgeeks. org
+upskillcourses. com
