@@ -2,74 +2,74 @@
 # Modul-Belajar-Coding
 
 ## Code Explorers
-- **Dasar Pemrograman** 
+- **Dasar Pemrograman**: 
 Belajar logika pemrograman menggunakan puzzle-based platform
 	- [Menggunakan Scratch](Puzzle-based/Dasar-Pemrograman-Scratch.md)
 	- [Menggunakan AppInventor](Puzzle-based/Dasar-Pemrograman-AppInventor.md)
 	- [Menggunakan TurtleArt](Puzzle-based/Dasar-Pemrograman-TurtleArt.md)
 
-- **Easy Games**
+- **Easy Games**:
 Membuat aplikasi permainan sederhana
 	- [Menggunakan Scratch](Puzzle-based/Easy-Games-Scratch.md)
 	- [Menggunakan AppInventor](Puzzle-based/Easy-Games-AppInventor.md)
 		
-- **Story & Animation**
+- **Story & Animation**:
 Membuat cerita dan animasi
 	- [Menggunakan Scratch](Puzzle-based/Story-Animation-Scratch.md)
 	- [Menggunakan AppInventor](Puzzle-based/Story-Animation-AppInventor.md)
 
 ## Creative Coders
-- **Dasar Pemrograman** 
+- **Dasar Pemrograman**: 
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
 	- [Menggunakan JavaScript](Text-based/Dasar-Pemrograman-JavaScript.md)
-- **Game**
+- **Game**:
 Belajar membuat game
 	- [Menggunakan Python](Text-based/Game-Python.md)
 	- [Menggunakan JavaScript](Text-based/Game-JavaScript.md)
 	- [Menggunakan AppInventor (Mobile Game)](Text-based/Game-AppInventor.md)
-- **Web**
+- **Web**:
 Belajar membuat website
 	- [Menggunakan Python](Text-based/Web-Python.md)
 	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 
 ## Junior Programmer
-- **Dasar Pemrograman** 
+- **Dasar Pemrograman**:
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
 	- [Menggunakan JavaScript](Text-based/Dasar-Pemrograman-JavaScript.md)
 	- [Menggunakan Java](Text-based/Dasar-Pemrograman-Java.md)
 	- [Menggunakan PHP](Text-based/Dasar-Pemrograman-PHP.md)
 	- [Menggunakan VisualBasic (.NET)](Text-based/Dasar-Pemrograman-VB.md)
-- **Game**
+- **Game**:
 Belajar membuat game
 	- [Menggunakan Python](Text-based/Game-Python.md)
 	- [Menggunakan JavaScript](Text-based/Game-JavaScript.md)
 	- [Menggunakan Unity](Text-based/Game-Unity.md)
-- **Web**
+- **Web**:
 Belajar membuat website
 	- [Menggunakan Python](Text-based/Web-Python.md)
 	- [Menggunakan Java](Text-based/Web-Java.md)
 	- [Menggunakan PHP](Text-based/Web-PHP.md)
 	- [Menggunakan JavaScript](Text-based/Web-JavaScript.md)
 	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
-- **Mobile** 
+- **Mobile**:
 Belajar membuat aplikasi Android
 	- [Menggunakan Java](Text-based/Mobile-Java.md)
 	- [Menggunakan Flutter](Text-based/Mobile-Flutter.md)
-- **AI/Data Science** 
+- **AI/Data Science**: 
 Belajar Machine Learning dan Data Science
 	- [Menggunakan Python](Text-based/MLDS-Python.md)
 
 ## Innovators
-- **Elektronika Dasar**
+- **Elektronika Dasar**:
 Belajar dasar elektronika yang dibutuhkan untuk membuat robot.
-- **Robotika Kreatif**
+- **Robotika Kreatif**:
 Belajar mekanika dan automation, sensor dan aktuator, kontrol dan komunikasi dengan robot
 
 ## Digital Creative for Everyone
 Bikin aplikasi digital #tanpacoding
- - **Web**
+- **Web**
 - **Mobile**
 - **Chatbot**
 - **Games**
@@ -84,10 +84,29 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 	- **Mobile apps** development for Android devices using Java or Flutter
 	- **AI/Data Science** using Python
 	- **Data Engineering** using Pentaho
-	- **Supporting Tools** for source control, testing, management, etc
+	- **Supporting Tools & Infrastructure**
+		- Source control
+		- Testing tools
+		- Project management
+		- Virtualization
+		- Application server
 - **Administration**
-Server, Database, Network
+	- Server
+		- Windows
+		- Linux
+	- Database
+		- MySQL
+		- PostgreSQL
+	- Network
 
 ## Digital Literacy
-
+- Media balance & well-being
+- Privacy & security
+- Digital footprint & identity
+- Relationship & Communication
+- Cyberbullying & hate speech
+- News & media literacy
+- Digital content creation
+	- Graphical content
+	- Article/Copywriting
 
