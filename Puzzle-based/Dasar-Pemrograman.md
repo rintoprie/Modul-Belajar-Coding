@@ -1,1 +1,0 @@
-# Dasar Pemrograman menggunakan Scratch
