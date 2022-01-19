@@ -108,18 +108,17 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 	- Network
 
 ## Coding Games
-- [CodinGame](https://www.codingame.com/start) JavaScript, Ruby, dan PHP, dll
 - [CSS Diner](https://flukeout.github.io/) CSS
 - [Flexbox Froggy](http://flexboxfroggy.com/) CSS flexbox
 - [Flexbox Defense](http://www.flexboxdefense.com/) CSS flexbox
+- [CodinGame](https://www.codingame.com/start) JavaScript, Ruby, dan PHP, dll
 - [CodeCombat](https://codecombat.com/) Python, JavaScript, CoffeeScript
-- [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) Ruby
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) JavaScript
-- [Code Hunt](https://www.microsoft.com/en-us/store/p/code-hunt-game/9nblggh6d0gs) Java atau C#
-- [Robocode](http://robocode.sourceforge.net/) Java atau .NET
 - [CheckIO and Empire of Code](https://checkio.org/) JavaScript atau Python
 - [Cyber Dojo](http://www.cyber-dojo.org/) Ruby, JavaScript, PHP, Python, dll
 - [Elevator Saga](http://play.elevatorsaga.com/) JavaScript
 - [Code Wars](https://www.codewars.com/) JavaScript, Swift, PHP, Python, Ruby, dan Haskell
+- [Robocode](http://robocode.sourceforge.net/) Java atau .NET
+- [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) Ruby
 - [Screeps](https://screeps.com/) MMO sandbox game for programmers
 - [SQL Murder Mystery](http://mystery.knightlab.com/) SQL query
