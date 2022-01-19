@@ -2,11 +2,11 @@
 # Modul-Belajar-Coding
 
 Modul ini terdiri atas beberapa bagian:
-1. [Modul belajar coding untuk anak](#belajar-coding-untuk-anak)
-2. [Modul belajar coding untuk dewasa](#belajar-coding-untuk-dewasa)
+1. [Modul belajar coding untuk anak](#code-explorers)
+2. [Modul belajar coding untuk profesional](#digital-creative-for-everyone)
 3. [Modul belajar literasi digital dan digital leadership](Literasi-Digital.md)
+4. [Coding Games](#coding-games)
 
-# Belajar Coding untuk Anak
 ## Code Explorers
 Modul yang dapat digunakan untuk mengajar anak usia SD
 - **Dasar Pemrograman**:
@@ -85,7 +85,6 @@ Belajar mekanika dan automation, sensor dan aktuator, kontrol dan komunikasi den
 	- [Mekanika & Automation](Hardware/MechanicAutomation.md)
 	- [Komunikasi & Integrasi](Hardware/Connectivity.md)
 
-# Belajar Coding untuk Dewasa
 ## Digital Creative for Everyone
 Bikin aplikasi digital #tanpacoding untuk membantu pekerjaan tanpa harus menggunakan bahasa pemrograman
 - **Web**
