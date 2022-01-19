@@ -121,4 +121,5 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 - [Cyber Dojo](http://www.cyber-dojo.org/) Ruby, JavaScript, PHP, Python, dll
 - [Elevator Saga](http://play.elevatorsaga.com/) JavaScript
 - [Code Wars](https://www.codewars.com/) JavaScript, Swift, PHP, Python, Ruby, dan Haskell
+- [Screeps](https://screeps.com/) MMO sandbox game for programmers
 - 
