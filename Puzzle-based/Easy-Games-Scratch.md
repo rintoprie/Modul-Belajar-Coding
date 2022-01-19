@@ -24,3 +24,9 @@ Minecraft 2
 - Look & sound, motion, event
 - Control, variables, function
 - Messaging/Broadcast
+
+## Final Project
+Diberikan ketentuan game berupa:
+- Kemampuan karakter
+- Aturan & Tujuan
+- Jumlah level
