@@ -8,10 +8,13 @@
   - Sprites (Code, Costume, Sounds)
   - Stage (Code, Backdrop, Sounds)
   - Toolbox
+  - Tutorial di dalam Scratch
 - **Tugas:** Membuat "Hello World" dan menggerakkan Scratch
 - Menyimpan proyek > Membuat akun di Scratch
 
-## Tutorial di dalam Scratch
+## Membuat sprite dan background sendiri
+- Membuat sprite
+- Membuat backdrop/background
 
 ## Hour of Code
 - Minecraft
@@ -20,18 +23,19 @@
 - Frozen
 
 ## Mengenal algoritma dasar
-- Event
-  - Latihan: 
+- Events
+  - When: 
 - Control
-- Variable
-- Function/Block
+  - Loop:
+  - Conditional:
+- Variables
+- Function/Blocks
 
 ## Extension
 - Text to speech
 - Camera
 - Music
 
-## Membuat sprite dan background sendiri
 
 
 ## Challenges
@@ -41,5 +45,5 @@
 - Remix
 
 ## What's next
-- [Games](Easy-Games.md)
-- [Story/Animation](Story-Animation.md)
+- [Games](Easy-Games-Scratch.md)
+- [Story/Animation](Story-Animation-Scratch.md)
