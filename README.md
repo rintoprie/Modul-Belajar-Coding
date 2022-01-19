@@ -1,8 +1,15 @@
 
 # Modul-Belajar-Coding
 
+Modul ini terdiri atas beberapa bagian:
+1. [Modul belajar coding untuk anak](#belajar-coding-untuk-anak)
+2. [Modul belajar coding untuk dewasa](#belajar-coding-untuk-dewasa)
+3. [Modul belajar literasi digital dan digital leadership](Literasi-Digital.md)
+
+# Belajar Coding untuk Anak
 ## Code Explorers
-- **Dasar Pemrograman**: 
+Modul yang dapat digunakan untuk mengajar anak usia SD
+- **Dasar Pemrograman**:
 Belajar logika pemrograman menggunakan puzzle-based platform
 	- [Menggunakan Scratch](Puzzle-based/Dasar-Pemrograman-Scratch.md)
 	- [Menggunakan AppInventor](Puzzle-based/Dasar-Pemrograman-AppInventor.md)
@@ -19,7 +26,8 @@ Membuat cerita dan animasi
 	- [Menggunakan AppInventor](Puzzle-based/Story-Animation-AppInventor.md)
 
 ## Creative Coders
-- **Dasar Pemrograman**: 
+Modul yang dapat digunakan untuk mengajar anak mulai dari usia SD kelas 5 atau 6 sampai kelas 9 (SMP)
+- **Dasar Pemrograman**:
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
 	- [Menggunakan JavaScript](Text-based/Dasar-Pemrograman-JavaScript.md)
@@ -34,6 +42,7 @@ Belajar membuat website
 	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 
 ## Junior Programmer
+Modul yang dapat digunakan untuk mengajar usia SMA atau dewasa
 - **Dasar Pemrograman**:
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
@@ -62,6 +71,7 @@ Belajar Machine Learning dan Data Science
 	- [Menggunakan Python](Text-based/MLDS-Python.md)
 
 ## Innovators
+Modul yang dapat digunakan untuk mengajar anak mulai dari usia SD kelas 5 atau 6 ke atas
 - **Elektronika Dasar**:
 Belajar dasar elektronika yang dibutuhkan untuk membuat robot.
 - **Dasar Pemrograman**: 
@@ -75,8 +85,9 @@ Belajar mekanika dan automation, sensor dan aktuator, kontrol dan komunikasi den
 	- [Mekanika & Automation](Hardware/MechanicAutomation.md)
 	- [Komunikasi & Integrasi](Hardware/Connectivity.md)
 
+# Belajar Coding untuk Dewasa
 ## Digital Creative for Everyone
-Bikin aplikasi digital #tanpacoding
+Bikin aplikasi digital #tanpacoding untuk membantu pekerjaan tanpa harus menggunakan bahasa pemrograman
 - **Web**
 - **Mobile**
 - **Chatbot**
@@ -84,6 +95,7 @@ Bikin aplikasi digital #tanpacoding
 - **Automation**
 
 ## Coding Camp for Professionals
+Modul yang dapat digunakan untuk mengajar para profesional atau yang membutuhkan keahlian coding untuk bekerja
 - **Basic Programming**
 Learn basic algorithm and data structure or start by learning how to build apps using selected programming language 
 (Python/JavaScript/Java/PHP) 
@@ -108,6 +120,7 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 	- Network
 
 ## Coding Games
+- [Hour of Code](https://hourofcode.com/id)
 - [CSS Diner](https://flukeout.github.io/) CSS
 - [Flexbox Froggy](http://flexboxfroggy.com/) CSS flexbox
 - [Flexbox Defense](http://www.flexboxdefense.com/) CSS flexbox
