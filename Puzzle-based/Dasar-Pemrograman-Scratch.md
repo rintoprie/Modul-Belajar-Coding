@@ -1,7 +1,7 @@
 # Dasar Pemrograman menggunakan Scratch
 
 ## Mengenal Scratch
-- Apa itu Scratch
+- Apa itu [Scratch](https://scratch.mit.edu/)
 - Pengenalan workspace
   - Canvas
   - Preview
