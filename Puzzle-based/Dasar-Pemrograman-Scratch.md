@@ -12,12 +12,13 @@
 - **Tugas:** Membuat "Hello World" dan menggerakkan Scratch
 - Menyimpan proyek > Membuat akun di Scratch
 
-## Membuat sprite dan background sendiri
-- Membuat sprite
-- Membuat backdrop/background
+## Membuat sprite dan backdrop/background sendiri
+- Menggambar di dalam Scratch
+- Menggambar di aplikasi lain
+- Menggunakan gambar yang sudah jadi
 
 ## Hour of Code
-- Minecraft
+- Minecraft 1,2,3
 - Flappy Bird
 - Star Wars
 - Frozen
@@ -29,6 +30,13 @@
   - Conditional
 - Variables
 - Function/Blocks
+- Praktik
+    - Loop & Events:
+      - Play Catch
+      - Shooting Game
+      - Point & Shoot
+    - Controls & Variables
+      - Scoring
 
 ## Extension
 - Text to speech
