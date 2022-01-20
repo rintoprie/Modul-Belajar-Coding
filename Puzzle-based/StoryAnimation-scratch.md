@@ -1,7 +1,9 @@
 # Membuat Story & Animation menggunakan Scratch
 
 ## Mengenal elemen cerita
-
+- Character (costumes, looks, sounds)
+- Scenes (stage/sprite)
+- Movement/animation
 
 ## Membuat cerita 1-3 panggung
 - Membuat rancangan cerita dan dialog
@@ -9,7 +11,8 @@
 - Membuat rangkaian animasi
 
 ## Membuat cerita bercabang (1-3 cerita)
-
+- Membuat user input untuk pengambilan keputusan
+- Membuat percabangan
 
 ## Topik pemrograman lanjutan
 - Look, motion, event
