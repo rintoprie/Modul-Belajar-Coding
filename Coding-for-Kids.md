@@ -15,8 +15,8 @@ Membuat aplikasi permainan sederhana
 		
 - **Story & Animation**:
 Membuat cerita dan animasi
-	- [Menggunakan Scratch](Puzzle-based/Story-Animation-Scratch.md)
-	- [Menggunakan AppInventor](Puzzle-based/Story-Animation-AppInventor.md)
+	- [Menggunakan Scratch](Puzzle-based/StoryAnimation-Scratch.md)
+	- [Menggunakan AppInventor](Puzzle-based/StoryAnimation-AppInventor.md)
 
 ## Creative Coders
 Modul yang dapat digunakan untuk mengajar anak mulai dari usia SD kelas 5 atau 6 sampai kelas 9 (SMP)
