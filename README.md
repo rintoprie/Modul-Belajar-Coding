@@ -29,14 +29,14 @@ Modul ini terdiri atas beberapa bagian:
 - [SQL Murder Mystery](http://mystery.knightlab.com/) SQL query
 
 ## Free Coding Course
-coursera. org
-sololearn. com
-programiz. com
-codewars. com
-w3schools. com
-studytonight. com
-khanacademy. org
-codecademy. com
-freecodecamp. org
-geeksforgeeks. org
-upskillcourses. com
+- [coursera.org](https://www.coursera.org/courses?query=free)
+- sololearn.com
+- programiz.com
+- codewars.com
+- w3schools.com
+- studytonight.com
+- khanacademy.org
+- codecademy.com
+- freecodecamp.org
+- geeksforgeeks.org
+- upskillcourses. com
