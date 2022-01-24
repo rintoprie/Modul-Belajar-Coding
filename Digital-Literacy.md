@@ -20,9 +20,14 @@
 	- Slides/Visualization
 	- Report/essay
 
+## Assessment
+
+
 ## References/External Resources
 - [Digital Citizenship | Commonsense Media](https://www.commonsense.org/education/digital-citizenship)
 - [Literasi Digital](http://literasidigital.id/)
 - [Internet Sehat](http://internetsehat.id/)
+
+<hr/>
 
 # Digital Leadership
