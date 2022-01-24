@@ -21,7 +21,15 @@
 	- Report/essay
 
 ## Assessment
-
+- Digcomp (EU)
+	- [Digital Skill Accelerator](https://www.digitalskillsaccelerator.eu/learning-portal/online-self-assessment-tool/) >> Output: radar chart by competence
+	- [Digital Competence](http://www.digcomptest.eu/index.php?pg=competenciasDigitais) >> Output: score by competence
+	- [Ikanos Digital skills Self-assessment](https://ikanos.eus/en/ikanos-model/audit/ikanos-test/) >> Output: score by area (detail in PDF)
+	- [About Digcomp](https://ec.europa.eu/jrc/en/digcomp)
+- Digital Literacy Skills Framework (AU)
+	- [Digital Literacy Self-Assessment tool (Digital Citizenship GuideNOT Just another CSU Thinkspace site)](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/digital-literacy-self-assessment-tool/) >> Output: level of awareness
+	- [Digital Literacy Self-Assessment tool (Papas Education)](https://papaseducation.com/digital-literacy-self-assessment-tool/) >> Output: level of awareness
+	- [About Digital Literacy Skills Framework (2020)](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/digital-literacy/frameworks/)
 
 ## References/External Resources
 - [Digital Citizenship | Commonsense Media](https://www.commonsense.org/education/digital-citizenship)
