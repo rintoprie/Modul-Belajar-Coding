@@ -30,6 +30,8 @@
 	- [Digital Literacy Self-Assessment tool (Digital Citizenship GuideNOT Just another CSU Thinkspace site)](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/digital-literacy-self-assessment-tool/) >> Output: level of awareness
 	- [Digital Literacy Self-Assessment tool (Papas Education)](https://papaseducation.com/digital-literacy-self-assessment-tool/) >> Output: level of awareness
 	- [About Digital Literacy Skills Framework (2020)](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/digital-literacy/frameworks/)
+- Digital Quotient (DQ)
+	- [DQ Test](https://www.dqtest.org/)
 
 ## References/External Resources
 - [Digital Citizenship | Commonsense Media](https://www.commonsense.org/education/digital-citizenship)
