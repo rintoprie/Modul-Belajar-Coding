@@ -22,9 +22,9 @@
 
 ## Assessment
 - Digcomp (EU)
-	- [Digital Skill Accelerator](https://www.digitalskillsaccelerator.eu/learning-portal/online-self-assessment-tool/) >> Output: radar chart by competence
-	- [Digital Competence](http://www.digcomptest.eu/index.php?pg=competenciasDigitais) >> Output: score by competence
-	- [Ikanos Digital skills Self-assessment](https://ikanos.eus/en/ikanos-model/audit/ikanos-test/) >> Output: score by area (detail in PDF)
+	- [Digital Skill Accelerator](https://www.digitalskillsaccelerator.eu/learning-portal/online-self-assessment-tool/) (rate your ability by category) >> Output: radar chart by competence
+	- [Digital Competence](http://www.digcomptest.eu/index.php?pg=competenciasDigitais) (self-assessment for Educators) >> Output: score by competence
+	- [Ikanos Digital Skills Self-assessment](https://ikanos.eus/en/ikanos-model/audit/ikanos-test/) >> Output: score by area/skill (detail in PDF)
 	- [About Digcomp](https://ec.europa.eu/jrc/en/digcomp)
 - Digital Literacy Skills Framework (AU)
 	- [Digital Literacy Self-Assessment tool (Digital Citizenship GuideNOT Just another CSU Thinkspace site)](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/digital-literacy-self-assessment-tool/) >> Output: level of awareness
