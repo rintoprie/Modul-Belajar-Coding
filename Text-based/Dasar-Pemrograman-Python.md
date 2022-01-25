@@ -1,5 +1,6 @@
 # Dasar Pemrograman menggunakan Python
-
+  
+Materi:
 - Contoh-contoh aplikasi Python
 - Links of resources:
   - Hour of Code
@@ -31,7 +32,7 @@
   https://www.w3schools.com/python/python_ref_string.asp 
   
   Bisa disempurnakan juga dengan Machine Learning (AI) seperti dalam artikel berikut ini:  
-  https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+  https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
 
 ## Tutorial dan Referensi Python di Internet
 
@@ -45,10 +46,12 @@
 ### Online Tutorials
 - [Tutorialspoint](http://tutorialspoint.com/python)
 - [W3schools](https://www.w3schools.com/python/)
+- [Getting Started with Python](https://docs.trinket.io/getting-started-with-python)
+- [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python)
 
 ### YouTube Videos
-- https://www.youtube.com/watch?v=_ZqAVck-WeM
-- https://www.youtube.com/watch?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&v=SQ6dHC9msEA 
+- [Python Project Tutorial - Your First Python Project | Freecodecamp](https://www.youtube.com/watch?v=_ZqAVck-WeM)
+- [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/watch?v=iA8lLwmtKQM&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=2)
 
 ### Online Courses
 - [Freecodecamp](http://freecodecamp.org/)
@@ -56,22 +59,60 @@
 
 ### Referensi Resmi
 - [Python Docs](http://docs.python.org/3.7)
+- [Turtle docs](https://docs.python.org/3/library/turtle.html)
 
-### Cara Instal IDE Python
-- https://www.youtube.com/watch?v=92Gi-d-DtCY 
+### Cara Install IDE Python
+- [Tutorial Python - Cara Install Python di Windows](https://www.youtube.com/watch?v=92Gi-d-DtCY)
 
 ### Python tanpa Install
 Online IDE untuk belajar Python tanpa harus install Python di komputer.
 - [Trinket](https://www.youtube.com/watch?v=uaJkITygSz4)
 - [Replit](https://replit.com)
 
+## Mulai Belajar Python
+
+### Yang harus dipelajari
+1. Common syntax (print, input, comment)
+2. Variables and data type (int, str, list, type cast)
+3. Loop
+4. Functions
+5. If
+
 ### Hello World! project
 Hello world project
 Ikuti langkah-langkah berikut ini:
-1. Create account Trinket
+1. Create account in Trinket
 2. New Trinket > Python
 3. print("Hello world!")
 4. Save
 5. Share link > copy link > paste here
+
+### From Blocks to Code
+[From Blocks to Code with Trinket!](https://hourofpython.trinket.io/from-blocks-to-code-with-trinket)  
+Starting with Blocks, we look at the code underneath and learn some basics of Python!
+- Loops
+- Functions
+
+### Play with Turtle
+- [Turtle Programming in Python](https://www.tutorialspoint.com/turtle-programming-in-python)
+- [Turtle docs](https://docs.python.org/3/library/turtle.html)
+
+### Exercise
+Buatlah menggunakan [Trinket](https://trinket.io/) kemudian share link-nya!
+- Snowflake challenge (loop)  
+Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
+  -    https://drive.google.com/file/d/1HmfodvqWJ3_-tz3P-Cxpkq610oBIVSet/view?usp=sharing
+  -    https://drive.google.com/file/d/1xuPK0D_O7Kzysc-Skw5AUUmxpOu2tmAC/view?usp=sharing
+  -    https://drive.google.com/file/d/1Tix16mbPWiSMcSsmGEjPJqNj_uSLOiYj/view?usp=sharing
+  -    https://drive.google.com/file/d/13Ij9O0ROwrut5ej-OsXG2eMQ3bYcgDz0/view?usp=sharing
+  -    https://drive.google.com/file/d/1sth9PM3W6uZ-PCDBUXKwgfjtM2lxY1RZ/view?usp=sharing  
+ - [Rock Paper Scissors Game (If & random)](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
+ - Game Tebak Angka (if)
+ - Chatbot (if & string methods)
+ - Text Adventure (if, list, set)
+ - Website (Flask)
+ - AI (opencv)
+ - Crawler (beautifulsoup/scrappy)
+ - 
 
 
