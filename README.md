@@ -1,5 +1,5 @@
 
-# Modul-Belajar-Coding
+# Modul Belajar Coding
 
 This is a work-in-progress. **Modul Belajar Coding** (Learning Module for Coding) is a collection of resources that can be used for teaching coding for kids and for everyone. Modules are written in Indonesian language to reach more people in this country. These modules are also used for teaching in [Sakola School](https://sakola.web.id). Many of the things here are collected from everywhere and I put the best effort to write the source of the content. If you feels that you own the content and don't want it to be here or I forgot to write your name as the author please let me know.
 
@@ -29,14 +29,22 @@ Modul ini terdiri atas beberapa bagian:
 - [SQL Murder Mystery](http://mystery.knightlab.com/) SQL query
 
 ## Free Coding Course
+- [freecodecamp.org](https://www.freecodecamp.org/) >> Langsung praktik
+- [sololearn](https://www.sololearn.com/learning) >> Soal-soal praktik
 - [coursera.org](https://www.coursera.org/courses?query=free)
-- sololearn.com
-- programiz.com
-- codewars.com
-- w3schools.com
-- studytonight.com
-- khanacademy.org
-- codecademy.com
-- freecodecamp.org
-- geeksforgeeks.org
-- upskillcourses. com
+- [Programiz](https://www.programiz.com/)
+- [studytonight](https://www.studytonight.com/library/)
+- [codecademy](https://www.codecademy.com/catalog)
+- [Upskill](https://upskillcourses.com/courses)
+- [Cognitive Class](https://cognitiveclass.ai/courses)
+
+## Kumpulan Tutorial
+- [w3schools](https://www.w3schools.com/)
+- [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) >> Lengkap dengan teori-teori computer science
+
+## Online IDE
+- [Trinket](https://trinket.io/)
+- [Replit](https://replit.com/)
+- [glot.io](https://glot.io/)
+- 
