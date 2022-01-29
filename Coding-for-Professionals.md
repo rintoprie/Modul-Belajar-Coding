@@ -24,6 +24,9 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 		- Project management
 		- Virtualization
 		- Application server
+	- **Supporting Concept/Theory**
+		- HTTP
+		- 
 - **Administration**
 	- Server
 		- Windows
