@@ -2,11 +2,11 @@
 
 ## Pengantar Jurnalistik 
 - **Pengertian Berita**  
-  Berita adalah salah satu produk jurnalistik yang mudah ditemui di berbagai media, baik online, cetak, maupun televisi. Berita berisikan **laporan atas kejadian** atau peristiwa yang sedang dan telah terjadi.  
+  Berita adalah salah satu produk jurnalistik yang mudah ditemui di berbagai media, baik online, cetak, maupun televisi. Berita berisikan **laporan atas kejadian** atau peristiwa yang sedang dan telah terjadi.[Lihat pengertian berita, artikel dan feature](#pengertian-berita-artikel-dan-feature)  
   
-  Dalam teks berita, informasi yang disampakan merupakan peristiwa **aktual**, **penting**, dan **menarik** untuk diketahui publik. Maka dari itu, berita harus dimulai dengan **fakta**.
+  Dalam teks berita, informasi yang disampakan merupakan peristiwa **aktual**, **penting**, dan **menarik** untuk diketahui publik. Maka dari itu, berita harus dimulai dengan **fakta**. [Lihat News Value](#news-value)
   
-  Ada lima jenis teks berita yang lazim ditemui di berbagai media. Di antaranya **straight news** (berita langsung), **depth news** (berita mendalam), **opinion news** (berita opini), **interpretative news** (berita interpretatif), **investigation news** (berita investigai). [Lihat contoh](#bagaimanakah-sebuah-kejadian-ditulis)
+  Ada lima jenis teks berita yang lazim ditemui di berbagai media. Di antaranya **straight news** (berita langsung), **depth news** (berita mendalam), **opinion news** (berita opini), **interpretative news** (berita interpretatif), **investigation news** (berita investigai). [Lihat contoh](#bagaimanakah-sebuah-kejadian-ditulis)  
   
   Sumber: https://www.detik.com/edu/detikpedia/d-5563773/teks-berita-pengertian-ciri-ciri-dan-struktur-teks-berita.
   
@@ -44,16 +44,49 @@ Bagian ini merupakan inti dari teks berita. Tubuh berita merupakan kelanjutan da
   Sumber: https://www.detik.com/edu/detikpedia/d-5563773/teks-berita-pengertian-ciri-ciri-dan-struktur-teks-berita.
 
 ## News Value
-- Proximity
-- Timeliness
-- Prominence
+- **Magnitude/pengaruh**  
+  Magnitude artinya seberapa luas pengaruh suatu peristiwa bagi publik atau masyarakat luas. Contoh: kenaikan harga BBM.  
+- **Significance/penting**  
+  Menyangkut kepentingan (importance) orang banyak. Seberapa penting arti suatu peristiwa bagi publik atau apakah peristiwa itu penting diketahui masyarakat. Contoh: wabah penyakit, kenaikan harga sembako.
+- **Impact/dampak**  
+  Seberapa besar dampak suatu kejadian; seberapa banyak orang yang terkena dampak, seberapa luas, seberapa lama pula dampak tersebut dirasakan.Contoh: banjir, terorisme, atau kejadian berdampak luas lainnya.
+- **Timeliness/aktualitas**  
+  Disebut juga actuality, immediacy, dan new news yang artinya kebaruan. Contohnya: presiden yang baru dilantik, wali kota yang baru diangkat, artis yang baru melahirkan, pejabat yang baru masuk penjara.  
+  Terdapat tiga kategori aktual:
+  - Aktual kalender – contoh peringatan hari besar nasional.
+  - Aktual waktu – contoh quick count hasil pemilihan.
+  - Aktual masalah — contoh kasus pembunuhan yang belum terungkap.
+- **Proximity/kedekatan**  
+  Kedekatan peristiwa terhadap khalayak secara geografis, psikologis, dan ideologis.
+  - Geografis – lokasi kejadian
+  - Psikologis – keterikatan budaya (kultural), pikiran, perasaan, kesukaan, atau kejiwaan seseorang dengan suatu objek peristiwa atau berita.
+  - Ideologis – kedekatan keyakinan, sama-sama muslim misalnya.
+- **Prominence/ketokohan**  
+  Ketokohan atau ketenaran akan membuat seseorang menjadi sumber berita. Ada istilah “_news make_r” atau “_man makes news_”. Apa pun yang dilakukannya atau diucapkannya bisa menjadi berita. Peristiwa yang melibatkan public figure, artis, selebritas, pejabat, atau idola masyarakat selalu menarik. Bisa saja yang dilakukan mereka biasa saja, tak ada yang istimewa. Namun, karena tokoh, maka apa pun yang mereka lakukan atau ucapkan dinilai menarik bagi pembaca. Orang yang sering menjadi sumber berita disebut _media darling_.
+- **Human Interest**  
+  Peristiwa yang menyentuh perasaan kemanusiaan (_human touch_), misalnya perbudakan dan penganiayaan, perjuangan bangsa yang masih dijajah (Palestina), atau peritsiwa apa pun yang dapat menimbulkan efek emosi dan menimbilkan simpati.
+- **Unusualness/keanehan**  
+  Disebut juga _oddity_, un__iqueness. Keluarbiasaan, keunikan, ketidaklaziman, ketidakumumam. Anjing menggigit orang itu biasa, tapi orang menggigit anjing itu luar biasa alias aneh.  
+  
+Sumber:
+- https://romeltea.com/10-nilai-berita-news-values/
+- https://www.evangelicalpress.com/jou101/
+- https://www.digitalthirdcoast.com/blog/values-content-newsworthy
 
 ## News Gathering
-- Informasi & Data
-- Teknik Wawancara
-- Observasi
-- Riset Dokumentasi
-
+- **Wawancara**  
+  Wawancara adalah menggali informasi dengan bertanya kepada sumber berita (narasumber). Sumber berita bisa pelaku, korban, saksi, panitia, pengisi acara, pembicara, peserta, korlap demonstrasi, dll.
+  Model wawancara ada dua jenis:
+  1. **Wawancara langsung** yaitu wawancara dengan bertatap muka (face to face) langsung dengan narasumber.
+  2. **Wawancara tidak langsung** yaitu wawancara tanpa bertemu langsung secara fisik, tapi menggunaan perantara (media), misalnya telepon, chating, media sosial, dan email (wawancara tertulis).  
+  Sumber: https://romeltea.com/teknik-wawancara-jurnalistik/
+- **Observasi**  
+  Observasi adalah pengamatan peristiwa atau liputan langsung di lokasi kejadian. Wartawan datang langsung ke tempat kejadian perkara untuk mengamati dan mengumpulkan fakta (unsur berita 5W1H).  
+  Sumber: https://www.romelteamedia.com/2020/06/teknik-reportase-mencari-berita.html
+- **Riset Data**  
+  Riset data --disebut juga studi literatur-- adalah mengumpulkan fakta atau informasi dari arsip atau dokumen untuk dijadikan berita atau melengkapi berita, misalnya background information.  
+  Sumber: https://www.romelteamedia.com/2020/06/teknik-reportase-mencari-berita.html
+  
 ## Bahasa Jurnalistik
 Rosihan Anwar mendefinisikan bahasa jurnalistik sebagai bahasa yang digunakan wartawan, atau disebut pula bahasa pers.  
 Beberapa sifat khas yang dimiliki bahasa jurnalistik, yakni **singkat, padat, sederhana, lancar, jelas, lugas, dan menarik**.  
@@ -112,5 +145,14 @@ Sumber: https://pakcah.id/menulis/memahamiartikelopiniesai
 ## Fotografi Jurnalistik
 
 ## Jurnalisme Online
-
+- **Reportase Online**  
+  Di era jurnalistik online saat ini, wartawan juga melakukan reportase online seperti mencari bahan berita dari rilis resmi lembaga melalui website resmi atau akun media sosialnya. Wartawan sering membuat berita berdasarkan postingan, update status, atau cuitan public figure, pejabat, artis, tokoh agama, dll. di akun media sosialnya. Biasanya wartawan juga melakukan konfirmasi untuk memastikan keaslian akun tersebut.  
+  Sumber: https://www.romelteamedia.com/2020/06/teknik-reportase-mencari-berita.html
+  
 ## Kode Etik Jurnalistik
+Dalam meliput peristiwa atau menjalankan aktivitas reportase, wartawan profesional Indonesia akan memperhatikan:
+- **Kode Etik Jurnalistik** dan Pedoman Pemberitaan Media Siber
+- Fairness Doctrine (**Doktrin kejujuran**) yang mengajarkan, mendapatkan berita yang benar lebih penting daripada menjadi wartwan pertama yang menyiarkan atau menuliskannya.
+- **Cover both side atau Balance**, yakni perlakuan adil terhadap semua pihak yang menjadi objek berita, dengan meliput semua atau kedua belah pihak yang terlibat dalam sebuah peristiwa.
+- **Verifikasi atau cek dan ricek**, yakni meneliti kebenaran sebuah fakta atau data beberapa kali sebelum menuliskannya.  
+  Sumber: https://www.romelteamedia.com/2020/06/teknik-reportase-mencari-berita.html
