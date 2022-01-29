@@ -6,7 +6,7 @@
   
   Dalam teks berita, informasi yang disampakan merupakan peristiwa **aktual**, **penting**, dan **menarik** untuk diketahui publik. Maka dari itu, berita harus dimulai dengan **fakta**.
   
-  Ada lima jenis teks berita yang lazim ditemui di berbagai media. Di antaranya **straight news** (berita langsung), **depth news** (berita mendalam), **opinion news** (berita opini), **interpretative news** (berita interpretatif), **investigation news** (berita investigai).
+  Ada lima jenis teks berita yang lazim ditemui di berbagai media. Di antaranya **straight news** (berita langsung), **depth news** (berita mendalam), **opinion news** (berita opini), **interpretative news** (berita interpretatif), **investigation news** (berita investigai). [Lihat contoh](#bagaimanakah-sebuah-kejadian-ditulis)
   
   Sumber: https://www.detik.com/edu/detikpedia/d-5563773/teks-berita-pengertian-ciri-ciri-dan-struktur-teks-berita.
   
