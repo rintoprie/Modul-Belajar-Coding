@@ -1,17 +1,33 @@
 # Jurnalistik Dasar
 
 ## Pengantar Jurnalistik 
-- Pengertian Berita
-  Berita adalah salah satu produk jurnalistik yang mudah ditemui di berbagai media, baik online, cetak, maupun televisi. Berita berisikan **laporan atas kejadian** atau peristiwa yang sedang dan telah terjadi. Penyampaian informasi dapat dilakukan melalui berbagai media.
-
+- **Pengertian Berita**  
+  Berita adalah salah satu produk jurnalistik yang mudah ditemui di berbagai media, baik online, cetak, maupun televisi. Berita berisikan **laporan atas kejadian** atau peristiwa yang sedang dan telah terjadi.  
+  
   Dalam teks berita, informasi yang disampakan merupakan peristiwa **aktual**, **penting**, dan **menarik** untuk diketahui publik. Maka dari itu, berita harus dimulai dengan **fakta**.
-
+  
   Ada lima jenis teks berita yang lazim ditemui di berbagai media. Di antaranya **straight news** (berita langsung), **depth news** (berita mendalam), **opinion news** (berita opini), **interpretative news** (berita interpretatif), **investigation news** (berita investigai).
-
+  
   Sumber: https://www.detik.com/edu/detikpedia/d-5563773/teks-berita-pengertian-ciri-ciri-dan-struktur-teks-berita.
-
-- Unsur-unsur Berita
-- Jenis Berita
+  
+- **Unsur-unsur Berita**  
+  Khoirul Muslimin dalam buku _Jurnalistik Dasar: Jurus Jitu Menulis Berita, Feature Biografi, Artikel Populer, dan Editorial_ menyatakan bahwa **berita harus ditulis dengan menggunakan unsur-unsur 5W 1H**.  
+  
+  Menurut Sumadiria, tujuan dari penggunaan unsur-unsur 5W 1H dalam pembuatan berita adalah agar berita itu **lengkap**, **akurat**, sekaligus **memenuhi standar teknis jurnalistik**. 
+1. **What (Apa)**  
+  Menjelaskan tentang **peristiwa apa yang sedang terjadi** atau yang menjadi pembahasan dari berita tersebut.
+2. **Who (Siapa)**  
+  Digunakan untuk mengetahui **siapa saja subjek atau pelaku** yang terlibat dalam sebuah peristiwa.
+3. **When (Kapan)**  
+  Merupakan penjelas untuk menerangkan informasi perihal **waktu** masalah atau peristiwa itu terjadi.
+4. **Why (Kenapa)**  
+  Menitikberatkan pada **alasan atau latar belakang** dari peristiwa atau masalah yang sedang terjadi. 
+5. **Where (Di mana)**  
+  Menjelaskan perihal **lokasi** atau tempat peristiwa tersebut terjadi. 
+6. **How (Bagaimana)**  
+  Merupakan penjelasan lengkap mengenai **bagaimana peristiwa itu bisa terjadi**, sekaligus pendukung unsur why yang telah dijabarkan sebelumnya
+  
+  Sumber: https://kumparan.com/berita-hari-ini/pengertian-unsur-unsur-berita-5w-1h-dan-contohnya-1xIz0ExDjNW/full
 
 ## News Value
 - Proximity
@@ -35,7 +51,7 @@ Melansir dari buku _Bahasa Jurnalistik dan Komposisi (2004) karya Rosihan Anwar_
 - **Jelas** Dimaksudkan untuk mempermudah pembaca agar memahami informasi yang disampaikan. 
 - **Menarik** Ciri bahasa jurnalistik ini dimaksudkan untuk menggugah pubik agar mau terus menerus membaca informasi yang disuguhkan media.
 
-Sumber:https://www.kompas.com/skola/read/2021/12/22/110000269/bahasa-jurnalistik--pengertian-menurut-para-ahli-dan-cirinya?page=all
+  Sumber:https://www.kompas.com/skola/read/2021/12/22/110000269/bahasa-jurnalistik--pengertian-menurut-para-ahli-dan-cirinya?page=all
 
 ## Berita
 
