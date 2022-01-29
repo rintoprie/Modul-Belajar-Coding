@@ -29,6 +29,20 @@
   
   Sumber: https://kumparan.com/berita-hari-ini/pengertian-unsur-unsur-berita-5w-1h-dan-contohnya-1xIz0ExDjNW/full
 
+- **Struktur Teks Berita**
+  Dikutip dari buku Teks dalam Kajian Struktur dan Kebahasaan oleh Taufiqur Rahman dijelaskan teks berita memiliki tiga struktur yaitu judul, teras, dan tubuh.  
+  
+  1. **Judul (headline)**  
+  Judul merupakan kata kunci yang mewakili keseluruhan isi berita. Dalam teks berita, judul biasanya memuat tentang kejadian yang akan dibahas. Judul yang menarik akan memungkinkan pembaca tertarik terhadap berita yang disampaikan.
+  
+  2. **Teras (lead)**  
+  Teras berita atau lead adalah bagian yang penting dalam berita. Lead terletak pada paragraf pertama dalam teks berita. Lead mencakup inti dari keseluruhan isi berita. Lead juga menjadi salah satu penentu bagi pembaca untuk melihat isi berita lebih lanjut.  
+  
+  3. **Tubuh (body)**  
+Bagian ini merupakan inti dari teks berita. Tubuh berita merupakan kelanjutan dari isi berita. Berita akan dibahas lebih rinci secara keseluruhan pada bagian ini.
+  
+  Sumber: https://www.detik.com/edu/detikpedia/d-5563773/teks-berita-pengertian-ciri-ciri-dan-struktur-teks-berita.
+
 ## News Value
 - Proximity
 - Timeliness
@@ -53,11 +67,17 @@ Melansir dari buku _Bahasa Jurnalistik dan Komposisi (2004) karya Rosihan Anwar_
 
   Sumber:https://www.kompas.com/skola/read/2021/12/22/110000269/bahasa-jurnalistik--pengertian-menurut-para-ahli-dan-cirinya?page=all
 
-## Berita
+## Pengertian berita, artikel, dan feature
+- **Pengertian berita**  
+  Khoirul Muslimin dalam buku _Jurnalistik Dasar: Jurus Jitu Menulis Berita, Feature Biografi, Artikel Populer, dan Editorial (2021)_ mengartikan berita sebagai **laporan kejadian atau peristiwa penting yang menarik perhatian publik**. Berita memuat laporan tentang kejadian atau peristiwa yang sifatnya aktual. Berita biasanya dimuat di surat kabar, televisi, radio, maupun media daring (media online). 
+- **Pengertian artikel**  
+  Menurut Sri Rahayu, dkk dalam buku _Artikel (2020)_, artikel adalah **esai lengkap dan panjang** yang dipublikasikan melalui koran, majalah, buletin, dan lain sebagainya. Umumnya artikel bertujuan untuk menyajikan ide dan fakta yang mampu meyakinkan, mendidik, serta menghibur pembacanya. 
+- **Pengertian feature**  
+ Melansir dari buku _Jurnalistik Online: Panduan Mengelola Media Online (2012)_ karya Asep Syamsul M. Romli, feature adalah karangan khas yang jenis tulisannya tidak termasuk berita, tajuk rencana, serta artikel. Isi feature berkaitan erat dengan unsur **human interest** yang menampilkan kesan emosi dan simpati dalam bentuk karangan menarik. 
+- **Perbedaan berita, artikel, dan feature**  
+  Perbedaan utama antara berita, artikel, dan feature terletak pada isinya. Dikutip dari buku _Pengantar Jurnalistik (2019)_ karya Ahmad Qorib, dkk, **berita** lebih mengutamakan fakta dan data aktual. Penyusunan berita didasarkan pada peristiwa aktual (terbaru) yang ditulis tanpa opini. Sementara, **artikel** ditulis dengan menggunakan data dan fakta yang belum tentu merupakan peristiwa aktual. Dalam artikel, penulisnya akan memberi analisis serta opini, berupa fakta dan data tandingan. Sedangkan pembuatan **feature** didasarkan pada data dan fakta peristiwa aktual, namun bahan penyusunannya diseleksi terlebih dahulu dengan menekankan sisi human interest. Berdasarkan pemaparan di atas, bisa disimpulkan bahwa berita, artikel, dan feature sama-sama menggunakan data dan fakta. Hanya saja isinya berbeda. Berita tidak mengandung opini dan merupakan peristiwa aktual. Sementara, artikel memuat opini yang tetap didasarkan pada fakta dan data. Sedangkan feature, isinya lebih mengutamakan unsur human interest dalam penjelasan data dan faktanya.
 
-## Feature
-
-## Artikel/Opini
+Sumber: https://www.kompas.com/skola/read/2021/12/21/103000069/perbedaan-berita-artikel-dan-feature?page=all.
 
 ## Editorial/Tajuk Rencana
 
