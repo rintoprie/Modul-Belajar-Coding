@@ -113,6 +113,9 @@ Melansir dari buku _Bahasa Jurnalistik dan Komposisi (2004) karya Rosihan Anwar_
 Sumber: https://www.kompas.com/skola/read/2021/12/21/103000069/perbedaan-berita-artikel-dan-feature?page=all.
 
 ## Editorial/Tajuk Rencana
+Teks editorial ialah kolom khusus berupa **opini tim penulis dan penyusun berita** untuk menanggapi suatu isu yang sedang terjadi di dalam lingkungan masyarakat.  
+Isu yang dimuat bisa meliputi masalah politik, masalah sosial, juga masalah ekonomi. Walau berupa opini atau pendapat, penulisan teks editorial dilengkapi dengan bukti, fakta, dan argumentasi yang logis.  
+Sumber: https://www.bola.com/ragam/read/4650797/pengertian-teks-editorial-manfaat-fungsi-ciri-struktur-kaidah-kebahasaan-dan-contohnya
 
 ## Bagaimanakah Sebuah Kejadian Ditulis?
 
@@ -143,6 +146,7 @@ Satu kejadian atau peristiwa yang sama, bisa ditulis dengan berbagai bentuk tuli
 Sumber: https://pakcah.id/menulis/memahamiartikelopiniesai
 
 ## Fotografi Jurnalistik
+TBD
 
 ## Jurnalisme Online
 - **Reportase Online**  
