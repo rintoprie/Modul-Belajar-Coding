@@ -18,7 +18,9 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 		- Application server
 	- **Supporting Concept/Theory**
 		- HTTP/RESTful
+			- https://www.freecodecamp.org/news/http-request-methods-explained/
 		- Internet & Jaringan Komputer
+			- https://www.youtube.com/watch?v=4ydnFr3CrX0
 - **Administration**
 	- Server
 		- Windows
