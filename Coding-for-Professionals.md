@@ -1,13 +1,5 @@
 # Belajar Coding untuk Profesional
 
-## Digital Creative for Everyone
-Bikin aplikasi digital #tanpacoding untuk membantu pekerjaan tanpa harus menggunakan bahasa pemrograman
-- **Web**
-- **Mobile**
-- **Chatbot**
-- **Games**
-- **Automation**
-
 ## Coding Camp for Professionals
 Modul yang dapat digunakan untuk mengajar para profesional atau yang membutuhkan keahlian coding untuk bekerja
 - **Basic Programming**
@@ -25,8 +17,8 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 		- Virtualization
 		- Application server
 	- **Supporting Concept/Theory**
-		- HTTP
-		- 
+		- HTTP/RESTful
+		- Internet & Jaringan Komputer
 - **Administration**
 	- Server
 		- Windows
@@ -35,3 +27,65 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 		- MySQL
 		- PostgreSQL
 	- Network
+
+## Digital Creative for Everyone
+Bikin aplikasi digital #tanpacoding untuk membantu pekerjaan tanpa harus menggunakan bahasa pemrograman
+- **Website**
+	- WordPress – Pembuat situs web dan blog
+	- Weebly by Square
+	- Strikingly – Aplikasi membuat website tanpa coding
+	- Websites.co.in – Pembuat situs web instan
+	- Wix – Aplikasi pembuat website
+	- Jimdo Creator
+	- Milkshake – Website builder
+	- Squarespace – Aplikasi untuk membuat website
+	- https://bubble.io/
+- **Aplikasi Android**
+	- MIT App Inventor
+	- Thunkable
+	- Kodular
+	- AppsGeyser
+	- Appery.io
+	- AppMakr
+	- Appy Pie
+	- Jagel.id
+	- GoodBarber
+	- AppMachine
+	- Andromo
+	- GameSalad
+	- Swiftic
+- **Games**
+	- https://gamingshift.com/game-engines-without-coding/
+	- https://quickappninja.com
+	- https://www.gamify.com
+	- https://gdevelop.io
+- **Chatbot**
+	- https://chatfuel.com/
+	- https://landbot.io/
+	- IntelliTicks
+	- QuickReply.ai https://www.quickreply.ai/
+	- Flow XO
+	- Verloop
+	- Engati
+- **Business Automation**
+	- Workflow
+		- https://zapier.com
+		- https://webflow.com
+		- https://parabola.io/
+		- https://www.zoho.com
+		- Airtable
+		- Coda
+	- Data
+		- datastudio
+		- Glide
+	- Forms
+		- Google Form plugins
+		- Typeform
+	- Mailchimp
+	- https://www.bannerbear.com/
+- Machine Learning
+	- https://www.lobe.ai/
+- Sumber:
+	- https://webflow.com/blog/no-code-apps
+	- https://hackernoon.com/6-no-code-tools-to-help-your-business-automation-and-product-launches-bg3l3wv9
+	- https://chatbotslife.com/top-5-free-chatbot-for-customer-service-b0300e216b94
