@@ -1,5 +1,24 @@
 # Materi Digicamp
-
-- TurtleArt
-- Turtle Snowflake
-- Simple Chatbot
+Untuk umum, semua umur dengan durasi 90 menit
+- Puzzle-based
+  - TurtleArt 
+  - Mobile App (AppInventor)
+    - Gambar & Suara
+    - Sensors
+    - Bouncing Ball
+    - Flappy Bird
+    - Panjat Pinang
+    - Balap Perahu
+    - RPS
+  - Robotika (Tinkercad/Arduino)
+    - Elektronika Dasar
+    - Sensor
+    - Motor
+  - Story & Animation (Scratch)
+  - VR (https://vr.vex.com/)
+  - Video Sensing (Scratch)
+- Text-based
+  - Turtle Snowflake (Trinket/Python)
+  - Simple Chatbot (Trinket/Python)
+- Kriptografi & Pesan Sandi
+- Machine Learning (https://machinelearningforkids.co.uk/)
