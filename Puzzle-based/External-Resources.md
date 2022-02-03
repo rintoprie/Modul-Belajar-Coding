@@ -68,8 +68,6 @@ SDS themes should be broad enough so that Scratchers of all ages, interests, and
 To have your project added, please post a comment with a link. You can find a link to your project by clicking the “Embed” button on the project page. The link will be directly below the Facebook logo.  
 ____  
   
-https://www.101computing.net/scratch-challenges/  
-
 
 ## Storytelling with Scratch
 https://www.commonsense.org/education/articles/how-to-use-scratch-for-digital-storytelling  
