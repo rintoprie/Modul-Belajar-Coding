@@ -1,4 +1,4 @@
-# Belajar Coding untuk Anak-anak dan Remaja
+# Belajar Coding untuk SD, SMP, SMA, dan dewasa
 
 ## Code Explorers
 Dapat digunakan untuk siswa SD kelas 1-6
