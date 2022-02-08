@@ -1,7 +1,7 @@
 # Belajar Coding untuk Anak-anak dan Remaja
 
 ## Code Explorers
-Modul yang dapat digunakan untuk mengajar anak usia SD
+Dapat digunakan untuk siswa SD kelas 1-6
 - **Dasar Pemrograman**:
 Belajar logika pemrograman menggunakan puzzle-based platform
 	- [Menggunakan Scratch](Puzzle-based/Dasar-Pemrograman-Scratch.md)
@@ -19,7 +19,7 @@ Membuat cerita dan animasi
 	- [Menggunakan AppInventor](Puzzle-based/StoryAnimation-AppInventor.md)
 
 ## Creative Coders
-Modul yang dapat digunakan untuk mengajar anak mulai dari usia SD kelas 5 atau 6 sampai kelas 9 (SMP)
+Dapat digunakan mulai dari siswa SD kelas 5 atau 6 sampai kelas 9 (SMP)
 - **Dasar Pemrograman**:
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
@@ -35,7 +35,7 @@ Belajar membuat website
 	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 
 ## Junior Programmer
-Modul yang dapat digunakan untuk mengajar usia SMA atau dewasa
+Dapat digunakan untuk siswa SMA atau dewasa
 - **Dasar Pemrograman**:
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
@@ -64,7 +64,7 @@ Belajar Machine Learning dan Data Science
 	- [Menggunakan Python](Text-based/MLDS-Python.md)
 
 ## Innovators
-Modul yang dapat digunakan untuk mengajar anak mulai dari usia SD kelas 5 atau 6 ke atas
+Dapat digunakan mulai dari siswa SD kelas 5 atau 6 ke atas
 - **Elektronika Dasar**:
 Belajar dasar elektronika yang dibutuhkan untuk membuat robot.
 - **Dasar Pemrograman**: 
