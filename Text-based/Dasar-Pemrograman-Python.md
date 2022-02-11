@@ -1,16 +1,16 @@
 # Dasar Pemrograman menggunakan Python
   
 Materi:
-- [Contoh-contoh aplikasi Python](contoh-contoh-aplikasi-python)
-- [Links of resources](tutorial-dan-referensi-python-di-internet):
-  - Hour of Code
+- [Contoh-contoh aplikasi Python](#contoh-contoh-aplikasi-python)
+- [Links of resources](#tutorial-dan-referensi-python-di-internet):
+  - Hour of Code (1 jam nyobain Python)
   - YouTube videos
   - Online Tutorial
-  - Docs
+  - Referensi Resmi
   - Online Course (freecodecamp, tutorialspoint, w3schools)
-- [How to install IDE](cara-install-ide-python)
-- [Online IDE (Trinket.io, Replit.com, glot.io)](python-tanpa-ide)
-- [Hello, world!](hello-world-project)
+- [Cara install IDE](#cara-install-ide-python)
+- [Koding Python tanpa install IDE (Trinket.io, Replit.com, glot.io)](#python-tanpa-install)
+- [Mulai Belajar Python](#mulai-belajar-python)
 
 ## Contoh-contoh aplikasi Python
 - **Website**  
@@ -35,31 +35,31 @@ Materi:
 
 ## Tutorial dan Referensi Python di Internet
 
-### Hour of Code
-- [Code Combat 1: Escape the Dungeon!](https://hourofcode.com/cocom)
-- [Code Combat 2: Build your own game!](https://hourofcode.com/cocomgame)
-- [Ozaria](https://hourofcode.com/ozaria)
-- [Trinket Hour of Python](https://hourofpython.trinket.io/)
-- [Silent Teacher](https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python)
+- Hour of Code (1 jam nyobain Python)
+  - [Code Combat 1: Escape the Dungeon!](https://hourofcode.com/cocom)
+  - [Code Combat 2: Build your own game!](https://hourofcode.com/cocomgame)
+  - [Ozaria](https://hourofcode.com/ozaria)
+  - [Trinket Hour of Python](https://hourofpython.trinket.io/)
+  - [Silent Teacher](https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python)
 
-### Online Tutorials
-- [Tutorialspoint](http://tutorialspoint.com/python)
-- [W3schools](https://www.w3schools.com/python/)
-- [Getting Started with Python](https://docs.trinket.io/getting-started-with-python)
-- [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python)
-- [LearnPython](https://www.learnpython.org/)
+- Online Tutorials
+  - [Tutorialspoint](http://tutorialspoint.com/python)
+  - [W3schools](https://www.w3schools.com/python/)
+  - [Getting Started with Python](https://docs.trinket.io/getting-started-with-python)
+  - [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python)
+  - [LearnPython](https://www.learnpython.org/)
 
-### YouTube Videos
-- [Python Project Tutorial - Your First Python Project | Freecodecamp](https://www.youtube.com/watch?v=_ZqAVck-WeM)
-- [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/watch?v=iA8lLwmtKQM&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=2)
+- YouTube Videos
+  - [Python Project Tutorial - Your First Python Project | Freecodecamp](https://www.youtube.com/watch?v=_ZqAVck-WeM)
+  - [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/watch?v=iA8lLwmtKQM&list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1&index=2)
 
-### Online Courses
-- [Freecodecamp](http://freecodecamp.org/)
-- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
+- Online Courses
+  - [Freecodecamp](http://freecodecamp.org/)
+  - [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 
-### Referensi Resmi
-- [Python Docs](http://docs.python.org/3.7)
-- [Turtle docs](https://docs.python.org/3/library/turtle.html)
+- Referensi Resmi
+  - [Python Docs](http://docs.python.org/3.7)
+  - [Turtle docs](https://docs.python.org/3/library/turtle.html)
 
 ### Cara Install IDE Python
 - [Tutorial Python - Cara Install Python di Windows](https://www.youtube.com/watch?v=92Gi-d-DtCY)
@@ -71,21 +71,20 @@ Online IDE untuk belajar Python tanpa harus install Python di komputer.
 
 ## Mulai Belajar Python
 
-### Yang harus dipelajari
-1. Common syntax (print, input, comment)
-2. Variables and data type (int, str, list, type cast)
-3. Loop
-4. Functions
-5. If
-
 ### Hello World! project
-Hello world project
 Ikuti langkah-langkah berikut ini:
 1. Create account in Trinket
 2. New Trinket > Python
 3. print("Hello world!")
 4. Save
 5. Share link > copy link > paste here
+
+### Dasar Pemrograman
+1. Kode-kode umum (print, input, comment)
+2. Variabel dan tipe data (int, str, list, type cast)
+3. Loop (for, while)
+4. Functions
+5. If
 
 ### From Blocks to Code
 [From Blocks to Code with Trinket!](https://hourofpython.trinket.io/from-blocks-to-code-with-trinket)  
