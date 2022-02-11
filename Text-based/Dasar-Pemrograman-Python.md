@@ -1,17 +1,16 @@
 # Dasar Pemrograman menggunakan Python
   
 Materi:
-- Contoh-contoh aplikasi Python
-- Links of resources:
+- [Contoh-contoh aplikasi Python](contoh-contoh-aplikasi-python)
+- [Links of resources](tutorial-dan-referensi-python-di-internet):
   - Hour of Code
   - YouTube videos
   - Online Tutorial
   - Docs
   - Online Course (freecodecamp, tutorialspoint, w3schools)
-- How to install IDE
-- Online IDE (Trinket.io, Replit.com, glot.io)
-- Membuat akun di Trinket.io
-- Hello, world!
+- [How to install IDE](cara-install-ide-python)
+- [Online IDE (Trinket.io, Replit.com, glot.io)](python-tanpa-ide)
+- [Hello, world!](hello-world-project)
 
 ## Contoh-contoh aplikasi Python
 - **Website**  
@@ -110,10 +109,9 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
  - [Rock Paper Scissors Game (If & random)](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
  - Game Tebak Angka (if)
  - Chatbot (if & string methods)
- - Text Adventure (if, list, set)
+ - Text Adventure (input, casting, if, list, set, dictionary)
  - Website (Flask)
  - AI (opencv)
  - Crawler (beautifulsoup/scrappy)
- - 
 
 
