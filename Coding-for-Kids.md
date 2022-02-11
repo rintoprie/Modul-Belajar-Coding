@@ -67,6 +67,7 @@ Belajar Machine Learning dan Data Science
 Dapat digunakan mulai dari siswa SD kelas 5 atau 6 ke atas
 - **Elektronika Dasar**:
 Belajar dasar elektronika yang dibutuhkan untuk membuat robot.
+	- [Mengenal komponen-komponen elektronika dan cara kerjanya](Hardware/Components.md)
 - **Dasar Pemrograman**: 
 Belajar dasar pemrograman pada platform perangkat keras
 	- [Arduino](Hardware/Dasar-Pemrograman-Arduino.md)
