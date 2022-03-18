@@ -107,6 +107,7 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
   -    https://drive.google.com/file/d/1sth9PM3W6uZ-PCDBUXKwgfjtM2lxY1RZ/view?usp=sharing  
  - [Rock Paper Scissors Game (If & random)](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
  - Game Tebak Angka (if)
+ - Game Tebak Kata (Hangman) (if, for, list)
  - Chatbot (if & string methods)
  - Text Adventure (input, casting, if, list, set, dictionary)
  - Website (Flask)
