@@ -8,11 +8,17 @@ Dasar Turtle Art
 - begin_fill/end_fill
 
 Loop
-- for
+- repeat
+- for in
 - nested loop
 
 Variables
+- number
+- color
 
 List
+- number
+- color
+- nested list
 
 Function
