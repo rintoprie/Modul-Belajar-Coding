@@ -27,6 +27,17 @@ Modul ini terdiri atas beberapa bagian:
 - [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) Ruby
 - [Screeps](https://screeps.com/) MMO sandbox game for programmers
 - [SQL Murder Mystery](http://mystery.knightlab.com/) SQL query
+- [Getting Unstuck Challenge](https://gettingunstuck.gse.harvard.edu/) Scratch challenge
+  - When Clicked
+  - Parallelism
+  - Key Press
+  - Loops
+  - Broadcast
+  - Color Sensing
+  - Random
+  - Ask and Answer
+  - Variables
+  - Lists
 
 ## Free Coding Course
 - [freecodecamp.org](https://www.freecodecamp.org/) >> Langsung praktik
