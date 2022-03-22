@@ -50,12 +50,12 @@ Modul ini terdiri atas beberapa bagian:
 - [Cognitive Class](https://cognitiveclass.ai/courses)
 
 ## Kumpulan Tutorial
-- [w3schools](https://www.w3schools.com/)
-- [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) >> Lengkap dengan teori-teori computer science
+- [w3schools](https://www.w3schools.com/) Java, PHP, Python, HTML, CSS, JavaScript, C++, dll. Dilengkapi online editor.
+- [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm) Bahasa pemrograman, web development, database, machine learning, dll
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) Lengkap dengan teori-teori computer science
 
 ## Online IDE
-- [Trinket](https://trinket.io/)
-- [Replit](https://replit.com/)
-- [glot.io](https://glot.io/)
-- 
+- [Trinket](https://trinket.io/) Python, blocks (TurtleArt)
+- [Replit](https://replit.com/) Java, PHP, Python, HTML, CSS, JavaScript, C++, dll
+- [glot.io](https://glot.io/) Java, PHP, Python, JavaScript, C++, dll
+
