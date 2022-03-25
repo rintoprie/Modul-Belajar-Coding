@@ -106,12 +106,12 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
   -    https://drive.google.com/file/d/13Ij9O0ROwrut5ej-OsXG2eMQ3bYcgDz0/view?usp=sharing
   -    https://drive.google.com/file/d/1sth9PM3W6uZ-PCDBUXKwgfjtM2lxY1RZ/view?usp=sharing  
  - [Rock Paper Scissors Game (If & random)](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
- - Game Tebak Angka (if)
- - Game Tebak Kata (Hangman) (if, for, list)
- - Chatbot (if & string methods)
- - Text Adventure (input, casting, if, list, set, dictionary)
+ - Game Tebak Angka (if) *contoh ada di Trinket
+ - Game Tebak Kata (Hangman) (if, for, list) *contoh ada di Trinket
+ - Chatbot (if & string methods) *contoh ada di Trinket
+ - Text Adventure (input, casting, if, list, set, dictionary) *contoh ada di Trinket
  - Website (Flask)
  - AI (opencv)
- - Crawler (beautifulsoup/scrappy)
+ - Crawler (beautifulsoup/scrappy) [Latihan 1]() [Latihan 2]()
 
 
