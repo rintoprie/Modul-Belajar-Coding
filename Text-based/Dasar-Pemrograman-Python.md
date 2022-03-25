@@ -112,6 +112,6 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
  - Text Adventure (input, casting, if, list, set, dictionary) *contoh ada di Trinket
  - Website (Flask)
  - AI (opencv)
- - Crawler (beautifulsoup/scrappy) [Latihan 1]() [Latihan 2]()
+ - Crawler (beautifulsoup/scrappy) [Latihan 1](https://www.youtube.com/watch?v=XQgXKtPSzUI) [Latihan 2](https://www.youtube.com/watch?v=ng2o98k983k)
 
 
