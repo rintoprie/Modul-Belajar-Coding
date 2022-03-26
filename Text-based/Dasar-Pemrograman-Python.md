@@ -1,7 +1,11 @@
 # Dasar Pemrograman menggunakan Python
   
 Materi:
-- [Contoh-contoh aplikasi Python](#contoh-contoh-aplikasi-python)
+- Beberapa aplikasi yang dapat dibuat menggunakan Python:
+    - Website
+    - Game
+    - Artificial Intelligence (AI)
+    - Chatbot
 - [Links of resources](#tutorial-dan-referensi-python-di-internet):
   - Hour of Code (1 jam nyobain Python)
   - YouTube videos
@@ -11,27 +15,7 @@ Materi:
 - [Cara install IDE](#cara-install-ide-python)
 - [Koding Python tanpa install IDE (Trinket.io, Replit.com, glot.io)](#python-tanpa-install)
 - [Mulai Belajar Python](#mulai-belajar-python)
-
-## Contoh-contoh aplikasi Python
-- **Website**  
-  Sebuah website bisa dibuat dengan menggunakan Python. Beberapa framework yang biasa digunakan dalam membuat website adalah:
-  - **Flask**  
-  https://www.youtube.com/watch?v=Z1RJmh_OqeA&feature=youtu.be
-  - **Django**  
-  https://www.youtube.com/watch?v=UmljXZIypDc
-- **Game**  
-- **Artificial Intelligence (AI)**  
-- **Chatbot**  
-  Beberapa contoh chatbot sederhana:
-  - Chatbot Level 0 https://trinket.io/python/076681715c 
-  - Chatbot Level 1 https://trinket.io/python/587b1d24fa 
-  - Chatbot Level 2 https://trinket.io/python/6c7bb8c19e
-  
-  Chatbot yang lebih pintar bisa memanfaatkan fungsi-fungsi manipulasi String yang ada di Python seperti yang ada di referensi berikut ini:  
-  https://www.w3schools.com/python/python_ref_string.asp 
-  
-  Bisa disempurnakan juga dengan Machine Learning (AI) seperti dalam artikel berikut ini:  
-  https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
+- [Tutorial Membuat Aplikasi](#tutorial-membuat-aplikasi)
 
 ## Tutorial dan Referensi Python di Internet
 
@@ -100,18 +84,30 @@ Starting with Blocks, we look at the code underneath and learn some basics of Py
 Buatlah menggunakan [Trinket](https://trinket.io/) kemudian share link-nya!
 - Snowflake challenge (loop)  
 Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
-  -    https://drive.google.com/file/d/1HmfodvqWJ3_-tz3P-Cxpkq610oBIVSet/view?usp=sharing
-  -    https://drive.google.com/file/d/1xuPK0D_O7Kzysc-Skw5AUUmxpOu2tmAC/view?usp=sharing
-  -    https://drive.google.com/file/d/1Tix16mbPWiSMcSsmGEjPJqNj_uSLOiYj/view?usp=sharing
-  -    https://drive.google.com/file/d/13Ij9O0ROwrut5ej-OsXG2eMQ3bYcgDz0/view?usp=sharing
-  -    https://drive.google.com/file/d/1sth9PM3W6uZ-PCDBUXKwgfjtM2lxY1RZ/view?usp=sharing  
+  - https://drive.google.com/file/d/1HmfodvqWJ3_-tz3P-Cxpkq610oBIVSet/view?usp=sharing
+  - https://drive.google.com/file/d/1xuPK0D_O7Kzysc-Skw5AUUmxpOu2tmAC/view?usp=sharing
+  - https://drive.google.com/file/d/1Tix16mbPWiSMcSsmGEjPJqNj_uSLOiYj/view?usp=sharing
+  - https://drive.google.com/file/d/13Ij9O0ROwrut5ej-OsXG2eMQ3bYcgDz0/view?usp=sharing
+  - https://drive.google.com/file/d/1sth9PM3W6uZ-PCDBUXKwgfjtM2lxY1RZ/view?usp=sharing  
  - [Rock Paper Scissors Game (If & random)](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
  - Game Tebak Angka (if) *contoh ada di Trinket
  - Game Tebak Kata (Hangman) (if, for, list) *contoh ada di Trinket
- - Chatbot (if & string methods) *contoh ada di Trinket
+ - Chatbot (if & string methods)
+  - Chatbot Level 0 https://trinket.io/python/076681715c 
+  - Chatbot Level 1 https://trinket.io/python/587b1d24fa 
+  - Chatbot Level 2 https://trinket.io/python/6c7bb8c19e
+  Chatbot yang lebih pintar bisa memanfaatkan fungsi-fungsi manipulasi String yang ada di Python seperti yang ada di referensi berikut ini:  
+  https://www.w3schools.com/python/python_ref_string.asp 
  - Text Adventure (input, casting, if, list, set, dictionary) *contoh ada di Trinket
- - Website (Flask)
+
+### Tutorial Membuat Aplikasi
+- Website
+    - Menggunakan framework Flask https://www.youtube.com/watch?v=Z1RJmh_OqeA&feature=youtu.be
+    - Menggunakan framework Django https://www.youtube.com/watch?v=UmljXZIypDc
  - AI (opencv)
- - Crawler (beautifulsoup/scrappy) [Latihan 1](https://www.youtube.com/watch?v=XQgXKtPSzUI) [Latihan 2](https://www.youtube.com/watch?v=ng2o98k983k)
+ - Web Crawler (beautifulsoup/scrappy) 
+    - https://www.youtube.com/watch?v=XQgXKtPSzUI
+    - https://www.youtube.com/watch?v=ng2o98k983k
+ - Chatbot https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
 
 
