@@ -38,7 +38,7 @@ Modul ini terdiri atas beberapa bagian:
   - Ask and Answer
   - Variables
   - Lists
-- TurtleArt Challenge
+- [TurtleArt](https://www.playfulinvention.com/webturtleart/) Challenge
   - [Gallery 1](https://photos.google.com/share/AF1QipN8BZlqvT0RtDH1eG760SQ3OF_58l8zCrooa4T9tPXFB7S6QVoCFuwnzKa4L2c6mQ?key=U3dIV3pKLTl5dmE5WEdYMzBZZWFVM0UtdjBIT0Rn)
   - [Gallery 2](http://www.turtleart.org/gallery/index.html)
 
