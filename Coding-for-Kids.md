@@ -1,6 +1,6 @@
 # Belajar Coding untuk SD, SMP, SMA, dan dewasa
 
-## Code Explorers
+## 1. Code Explorers
 Dapat digunakan untuk siswa SD kelas 1-6
 - **Dasar Pemrograman**:
 Belajar logika pemrograman menggunakan puzzle-based platform
@@ -18,7 +18,7 @@ Membuat cerita dan animasi
 	- [Menggunakan Scratch](Puzzle-based/StoryAnimation-Scratch.md)
 	- [Menggunakan AppInventor](Puzzle-based/StoryAnimation-AppInventor.md)
 
-## Creative Coders
+## 2. Creative Coders
 Dapat digunakan mulai dari siswa SD kelas 5 atau 6 sampai kelas 9 (SMP)
 - **Dasar Pemrograman**:
 Belajar logika pemrograman
@@ -34,7 +34,7 @@ Belajar membuat website
 	- [Menggunakan Python](Text-based/Web-Python.md)
 	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 
-## Junior Programmer
+## 3. Junior Programmer
 Dapat digunakan untuk siswa SMA atau dewasa
 - **Dasar Pemrograman**:
 Belajar logika pemrograman
@@ -63,7 +63,7 @@ Belajar membuat aplikasi Android
 Belajar Machine Learning dan Data Science
 	- [Menggunakan Python](Text-based/MLDS-Python.md)
 
-## Innovators
+## 4. Innovators
 Dapat digunakan mulai dari siswa SD kelas 5 atau 6 ke atas
 - **Elektronika Dasar**:
 Belajar dasar elektronika yang dibutuhkan untuk membuat robot.
