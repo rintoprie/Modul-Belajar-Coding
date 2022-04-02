@@ -6,7 +6,7 @@ This is a work-in-progress. **Modul Belajar Coding** (Learning Module for Coding
 Modul ini terdiri atas beberapa bagian:
 1. [Modul belajar coding untuk SD, SMP, SMA, dan dewasa](Coding-for-Kids.md)
 2. [Modul belajar coding untuk profesional](Coding-for-Professionals.md)
-3. [Modul belajar literasi digital dan digital leadership](Digital-Literacy.md)
+3. [Modul belajar literasi digital dan digital leadership](Literasi/Digital-Literacy.md)
 4. [Materi Digicamp](Digicamp)
 5. [Coding Games](#coding-games)
 6. [Free Coding Course](#free-coding-course)
