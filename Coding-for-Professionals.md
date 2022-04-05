@@ -6,7 +6,7 @@ Modul yang dapat digunakan untuk mengajar para profesional atau yang membutuhkan
 Learn basic algorithm and data structure or start by learning how to build apps using selected programming language 
 (Python/JavaScript/Java/PHP) 
 - **Application Development**
-	- **Web** development using HTML/CSS/JS, PHP, Python, or Java frameworks
+	- **Web** development using HTML, CSS, [JavaScript](Text-based/Dasar-Pemrograman-JavaScript.md), PHP, [Python](Text-based/Dasar-Pemrograman-Python.md), or Java frameworks
 	- **Mobile apps** development for Android devices using Java or Flutter
 	- **AI/Data Science** using Python
 	- **Data Engineering** using Pentaho
