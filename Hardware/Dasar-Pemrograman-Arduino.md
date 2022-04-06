@@ -14,3 +14,15 @@ https://content.arduino.cc/assets/arduino_comic_id.pdf
 
 Belajar melalui situs resmi Arduino
 https://docs.arduino.cc/learn/
+
+Programming Arduino menggunakan blocks/puzzle
+- [Tinkercad](https://www.tinkercad.com/)
+- https://code.makewitharduino.com/
+- BlocklyDuino [GitHub](https://github.com/BlocklyDuino/BlocklyDuino-v2) [Web](https://blocklyduino.github.io/BlocklyDuino-v2/)
+- MakeBlock [Online IDE](https://ide.makeblock.com/) 
+
+Kumpulan project Arduino
+https://create.arduino.cc/projecthub
+
+Programming Arduino tanpa install IDE (mengggunakan Web Editor)
+https://create.arduino.cc/editor
