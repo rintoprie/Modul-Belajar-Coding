@@ -1,7 +1,11 @@
 # Belajar Coding untuk SD, SMP, SMA, dan dewasa
+1. [Code Explorers](#code-explorers) (1-6)
+2. [Creative Coders](#creative-coders) (5-9)
+3. [Junior Programmer](#junior-programmer) (SMA-Dewasa)
+4. [Innovators](#innovators) (robotika/elektronika)
 
-## 1. Code Explorers
-Dapat digunakan untuk siswa SD kelas 1-6
+## Code Explorers
+Modul belajar dapat digunakan untuk siswa SD kelas 1-6
 - **Dasar Pemrograman**:
 Belajar logika pemrograman menggunakan puzzle-based platform
 	- [Menggunakan Scratch](Puzzle-based/Dasar-Pemrograman-Scratch.md)
@@ -18,8 +22,8 @@ Membuat cerita dan animasi
 	- [Menggunakan Scratch](Puzzle-based/StoryAnimation-Scratch.md)
 	- [Menggunakan AppInventor](Puzzle-based/StoryAnimation-AppInventor.md)
 
-## 2. Creative Coders
-Dapat digunakan mulai dari siswa SD kelas 5 atau 6 sampai kelas 9 (SMP)
+## Creative Coders
+Modul belajar dapat digunakan mulai dari siswa SD kelas 5 atau 6 sampai kelas 9 (SMP)
 - **Dasar Pemrograman**:
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
@@ -34,8 +38,8 @@ Belajar membuat website
 	- [Menggunakan Python](Text-based/Web-Python.md)
 	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 
-## 3. Junior Programmer
-Dapat digunakan untuk siswa SMA atau dewasa
+## Junior Programmer
+Modul belajar dapat digunakan untuk siswa SMA atau dewasa
 - **Dasar Pemrograman**:
 Belajar logika pemrograman
 	- [Menggunakan Python](Text-based/Dasar-Pemrograman-Python.md)
@@ -63,8 +67,8 @@ Belajar membuat aplikasi Android
 Belajar Machine Learning dan Data Science
 	- [Menggunakan Python](Text-based/MLDS-Python.md)
 
-## 4. Innovators
-Dapat digunakan mulai dari siswa SD kelas 5 atau 6 ke atas
+## Innovators
+Modul belajar dapat digunakan mulai dari siswa SD kelas 5 atau 6 ke atas
 - **Elektronika Dasar**:
 Belajar dasar elektronika yang dibutuhkan untuk membuat robot.
 	- [Mengenal komponen-komponen elektronika dan cara kerjanya](Hardware/Components.md)
