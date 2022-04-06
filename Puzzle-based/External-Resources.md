@@ -1,4 +1,11 @@
-# External Resources
+# Various Resources
+- [Classroom Projects with Scratch](#classroom-projects-with-scratch)
+- [Scratch Curriculum](#scratch-curriculum)
+- [Scratch Video Sensing](#scratch-video-sensing)
+- [Scratch Animations](#scratch-animations)
+- [Scratch Challenges](#scratch-challenges)
+- [Storytelling with Scratch](#storytelling-with-scratch)  
+
 
 ## Classroom Projects with Scratch
 https://www.instructables.com/Classroom-Projects-With-Scratch/
