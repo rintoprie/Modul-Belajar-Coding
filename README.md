@@ -12,7 +12,8 @@ Modul ini terdiri atas beberapa bagian:
 6. [Free Coding Course](#free-coding-course)
 
 ## Coding Games
-- [Hour of Code](https://hourofcode.com/id)
+Games sederhana untuk pengenalan coding atau bisa juga sebagai selingan di antara materi coding
+- [Hour of Code](https://hourofcode.com/id) Beragam games untuk berbagai usia
 - [CSS Diner](https://flukeout.github.io/) CSS
 - [Flexbox Froggy](http://flexboxfroggy.com/) CSS flexbox
 - [Flexbox Defense](http://www.flexboxdefense.com/) CSS flexbox
@@ -43,6 +44,7 @@ Modul ini terdiri atas beberapa bagian:
   - [Gallery 2](http://www.turtleart.org/gallery/index.html)
 
 ## Free Coding Course
+Kursus coding online bersertifikat
 - [freecodecamp.org](https://www.freecodecamp.org/) >> Langsung praktik
 - [sololearn](https://www.sololearn.com/learning) >> Soal-soal praktik
 - [coursera.org](https://www.coursera.org/courses?query=free)
@@ -55,9 +57,11 @@ Modul ini terdiri atas beberapa bagian:
 ## Kumpulan Tutorial
 - [w3schools](https://www.w3schools.com/) Java, PHP, Python, HTML, CSS, JavaScript, C++, dll. Dilengkapi online editor.
 - [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm) Bahasa pemrograman, web development, database, machine learning, dll
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) Lengkap dengan teori-teori computer science
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) Berbagai tutorial lengkap dengan teori-teori computer science
+- [JS Hero](https://www.jshero.net/en/home.html) Belajar JavaScript langsung praktik
 
 ## Online IDE
+Belajar bahasa pemrograman tanpa install apapun. Praktik langsung cukup menggunakan web browser.
 - [Trinket](https://trinket.io/) Python, blocks (TurtleArt)
 - [Replit](https://replit.com/) Java, PHP, Python, HTML, CSS, JavaScript, C++, dll
 - [glot.io](https://glot.io/) Java, PHP, Python, JavaScript, C++, dll
