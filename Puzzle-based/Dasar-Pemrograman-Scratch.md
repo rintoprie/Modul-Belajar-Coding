@@ -17,12 +17,6 @@
 - Menggambar di aplikasi lain
 - Menggunakan gambar yang sudah jadi
 
-## Hour of Code
-- Minecraft 1,2,3
-- Flappy Bird
-- Star Wars
-- Frozen
-
 ## Mengenal algoritma dasar
 - Events
 - Control
@@ -50,6 +44,12 @@
 - Animation
 - TurtleArt
 - Remix
+
+## Hour of Code
+- Minecraft 1,2,3
+- Flappy Bird
+- Star Wars
+- Frozen
 
 ## What's next
 - [Games](Easy-Games-Scratch.md)
