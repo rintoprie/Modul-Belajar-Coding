@@ -31,7 +31,7 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 	- Network
 
 ## Digital Creative for Everyone
-Bikin aplikasi digital #tanpacoding untuk membantu pekerjaan tanpa harus menggunakan bahasa pemrograman
+Bikin aplikasi digital **#tanpacoding** untuk membantu pekerjaan tanpa harus menggunakan bahasa pemrograman
 - **Website**
 	- WordPress – Pembuat situs web dan blog
 	- Weebly by Square
