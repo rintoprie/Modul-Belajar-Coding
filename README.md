@@ -66,3 +66,21 @@ Belajar bahasa pemrograman tanpa install apapun. Praktik langsung cukup mengguna
 - [Replit](https://replit.com/) Java, PHP, Python, HTML, CSS, JavaScript, C++, dll
 - [glot.io](https://glot.io/) Java, PHP, Python, JavaScript, C++, dll
 
+## Desktop IDE
+Yang ringan:
+- Visual Studio Code
+- Sublime Text
+- Atom
+- Nano
+- Vim
+- Notepad
+  
+Yang lengkap:
+- IntellijIDEA
+- Eclipse
+- NetBeans
+- Visual Studio
+  
+Yang spesifik:
+- Android Studio
+
