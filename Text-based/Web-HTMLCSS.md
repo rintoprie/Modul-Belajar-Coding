@@ -3,10 +3,11 @@
 ![HTML vs HTML+CSS](/assets/images/htmlcss.jpg "HTML vs HTML+CSS")  
 
 ## HTML Dasar
-- [Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)
+- [HTML Dasar - Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)
 
 ## CSS Dasar
-- [Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p)  
+- [CSS Dasar - Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p)  
+- [CSS Layouting - Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr)  
 
   
   
