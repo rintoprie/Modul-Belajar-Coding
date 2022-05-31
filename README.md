@@ -4,7 +4,7 @@
 This is a work-in-progress. **Modul Belajar Coding** (Learning Module for Coding) is a collection of resources that can be used for teaching coding for kids and for everyone. Modules are written in Indonesian language to reach more people in this country. These modules are also used for teaching in [Sakola School](https://sakola.web.id). Many of the things here are collected from everywhere and I put the best effort to write the source of the content. If you feels that you own the content and don't want it to be here or I forgot to write your name as the author please let me know.
 
 Modul ini terdiri atas beberapa bagian:
-1. [Modul belajar coding untuk SD, SMP, SMA, dan dewasa](Coding-for-Kids.md)
+1. [Modul belajar coding untuk SD, SMP, SMA, dan dewasa](Coding-for-Kids-n-Teens.md)
 2. [Modul belajar coding untuk profesional](Coding-for-Professionals.md)
 3. [Modul belajar literasi digital dan digital leadership](Literasi/Digital-Literacy.md)
 4. [Materi Digicamp](Digicamp)
