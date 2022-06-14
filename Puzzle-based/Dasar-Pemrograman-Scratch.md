@@ -97,3 +97,17 @@
 - Make a virtual piano
 - Make music with only the scratch noises
 - Make a scratch rap
+
+### Science
+- Pyhsics simulation
+
+### Math
+- Make a calculator
+
+### Imitate Real Life
+- Room lights
+
+### Imitate Popular Games
+- Space Shooter
+- Among Us
+- 
