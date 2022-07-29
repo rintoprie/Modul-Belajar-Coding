@@ -8,7 +8,7 @@
   - [Belajar Cara Membuat Game 2D dengan Python dan Arcade (Codepolitan)](https://www.codepolitan.com/belajar-cara-membuat-game-2d-dengan-python-dan-arcade-5adff78d1db9b/)
 - Simple Games (dari buku [Al Sweigart](https://inventwithpython.com/invent4thed/)) menggunakan Python 3
   - [Tebak Angka](https://inventwithpython.com/invent4thed/chapter3.html)
-  - [Joke-Tellin](https://inventwithpython.com/invent4thed/chapter4.html)
+  - [Joke-Telling](https://inventwithpython.com/invent4thed/chapter4.html)
   - [Pilih Sendiri Petualanganmu](https://inventwithpython.com/invent4thed/chapter5.html)
   - [Hangman](https://inventwithpython.com/invent4thed/chapter7.html)
   - [Tic Tac Toe](https://inventwithpython.com/invent4thed/chapter10.html)
@@ -16,4 +16,3 @@
   - [Sonar Treasure Hunt](https://inventwithpython.com/invent4thed/chapter13.html)
   - [Kode Rahasia](https://inventwithpython.com/invent4thed/chapter14.html)
   - [Othello](https://inventwithpython.com/invent4thed/chapter15.html)
-  - 
