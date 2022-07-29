@@ -93,12 +93,13 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
  - Game Tebak Angka (if) *contoh ada di Trinket
  - Game Tebak Kata (Hangman) (if, for, list) *contoh ada di Trinket
  - Chatbot (if & string methods)
-  - Chatbot Level 0 https://trinket.io/python/076681715c 
-  - Chatbot Level 1 https://trinket.io/python/587b1d24fa 
-  - Chatbot Level 2 https://trinket.io/python/6c7bb8c19e
+    - Chatbot Level 0 https://trinket.io/python/076681715c 
+    - Chatbot Level 1 https://trinket.io/python/587b1d24fa 
+    - Chatbot Level 2 https://trinket.io/python/6c7bb8c19e
   Chatbot yang lebih pintar bisa memanfaatkan fungsi-fungsi manipulasi String yang ada di Python seperti yang ada di referensi berikut ini:  
   https://www.w3schools.com/python/python_ref_string.asp 
  - Text Adventure (input, casting, if, list, set, dictionary) *contoh ada di Trinket
+ - [Simple Games dari buku Al Sweigart](Al-Sweigart-Games.md)
 
 ### Tutorial Membuat Aplikasi
 - Website
