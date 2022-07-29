@@ -17,17 +17,53 @@ dari buku [Al Sweigart](https://inventwithpython.com/invent4thed/) (menggunakan 
   - Escape characters
   - Using single quotes and double quotes for strings
   - Using print()’s end keyword parameter to skip newlines
-- [Pilih Sendiri Petualanganmu](https://inventwithpython.com/invent4thed/chapter5.html)
-  - 
+- [Dragon Realm - Pilih Sendiri Petualanganmu](https://inventwithpython.com/invent4thed/chapter5.html)
+  - Flowcharts
+  - Functions
+  - Multiline strings
+  - while statements
+  - and, or, not (Boolean operators)
+  - Truth tables
+  - The return keyword
+  - Global and local variable scope
+  - Parameters and arguments
+  - sleep() function
 - [Hangman](https://inventwithpython.com/invent4thed/chapter7.html)
-  - 
+  - Lists
+  - The in operator
+  - Methods
+  - The split(), lower(), upper(), startswith(), and endswith() string methods
+  - elif statements
+  - The dictionary data type
+  - Key-value pairs
+  - The keys() and values() dictionary methods
+  - Multiple variable assignment
 - [Tic Tac Toe](https://inventwithpython.com/invent4thed/chapter10.html)
-  - 
+  - Artificial intelligence
+  - List references
+  - Short-circuit evaluation
+  - The None value
 - [Tebak Angka](https://inventwithpython.com/invent4thed/chapter11.html)
-  - 
+  - The random.shuffle() function
+  - Augmented assignment operators, +=, -=, *=, /=
+  - The sort() list method
+  - The join() string method
+  - String interpolation
+  - The conversion specifier %s
+  - Nested loops
 - [Sonar Treasure Hunt](https://inventwithpython.com/invent4thed/chapter13.html)
-  - 
+  - Data structures
+  - The Pythagorean theorem
+  - The remove() list method
+  - The isdigit() string method
+  - The sys.exit() function
 - [Kode Rahasia](https://inventwithpython.com/invent4thed/chapter14.html)
-  - 
+  - Cryptography and ciphers
+  - Ciphertext, plaintext, keys, and symbols
+  - Encrypting and decryptingThe Caesar cipher
+  - The find() string methodCryptanalysis
+  - The brute-force technique
 - [Othello](https://inventwithpython.com/invent4thed/chapter15.html)
-  - 
+  - The bool() function
+  - Simulating moves on a Reversegam board
+  - Programming a Reversegam AI
