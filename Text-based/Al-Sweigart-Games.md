@@ -1,0 +1,33 @@
+# Simple Games  
+dari buku [Al Sweigart](https://inventwithpython.com/invent4thed/) (menggunakan Python 3)
+- [Tebak Angka](https://inventwithpython.com/invent4thed/chapter3.html)
+  - import statements
+  - Modules
+  - randint() function
+  - for statements
+  - Blocks
+  - str(), int(), float()
+  - Booleans
+  - Comparison operators
+  - Conditions
+  - The difference between = and ==
+  - if statements
+  - break statements
+- [Joke-Telling](https://inventwithpython.com/invent4thed/chapter4.html)
+  - Escape characters
+  - Using single quotes and double quotes for strings
+  - Using print()’s end keyword parameter to skip newlines
+- [Pilih Sendiri Petualanganmu](https://inventwithpython.com/invent4thed/chapter5.html)
+  - 
+- [Hangman](https://inventwithpython.com/invent4thed/chapter7.html)
+  - 
+- [Tic Tac Toe](https://inventwithpython.com/invent4thed/chapter10.html)
+  - 
+- [Tebak Angka](https://inventwithpython.com/invent4thed/chapter11.html)
+  - 
+- [Sonar Treasure Hunt](https://inventwithpython.com/invent4thed/chapter13.html)
+  - 
+- [Kode Rahasia](https://inventwithpython.com/invent4thed/chapter14.html)
+  - 
+- [Othello](https://inventwithpython.com/invent4thed/chapter15.html)
+  - 
