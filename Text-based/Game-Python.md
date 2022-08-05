@@ -4,6 +4,7 @@
   - [PyGame untuk Pemula (Petani Kode)](https://www.petanikode.com/pygame-untuk-pemula/)
   - [[Video] Pygame Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)
   - [[Video] Pygame in 90 Minutes - For Beginners - Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)
+  - [Complete Tutorial](https://coderslegacy.com/python/python-pygame-tutorial/)
   - [PyGame Reading/Exercise](https://www.coderpete.com/class/python/pyGame/assignments/pygame_unit1_exercises.php)
   - [PyGame Basic + Exercise](https://programming-21.mooc.fi/part-13)
   - [Game Project (Sokoban)](https://programming-21.mooc.fi/part-14)
