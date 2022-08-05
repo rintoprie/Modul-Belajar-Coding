@@ -45,6 +45,7 @@
 - [TurtleArt](Dasar-Pemrograman-TurtleArt.md)
 - Remix
   - [Interactive Bear](https://scratch.mit.edu/projects/463347380)
+  - Platformer
 
 ## Hour of Code
 - Minecraft 1,2,3
@@ -56,7 +57,10 @@
 - [Games](Easy-Games-Scratch.md)
 - [Story/Animation](Story-Animation-Scratch.md)
 
-## Scrath Ideas
+## Exercises
+- [Programming Playground](https://inventwithscratch.com/book3/)
+
+## Other Scrath Ideas
 (I forgot where I got this from)  
 
 ### ART  
@@ -89,6 +93,7 @@
 - Make a tea maker
 - Make a warrior cats game
 - Make a game for your favorite animals
+- Make traditional games from real life (tarik tambang, panjang pinang, balap karung, congklak, dll)
 
 ### MUSIC
 - Make your favorite song from noteblocks
@@ -110,4 +115,4 @@
 ### Imitate Popular Games
 - Space Shooter
 - Among Us
-- 
+
