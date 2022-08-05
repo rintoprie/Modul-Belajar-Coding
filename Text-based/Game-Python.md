@@ -4,6 +4,12 @@
   - [PyGame untuk Pemula (Petani Kode)](https://www.petanikode.com/pygame-untuk-pemula/)
   - [[Video] Pygame Tutorial for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=FfWpgLFMI7w)
   - [[Video] Pygame in 90 Minutes - For Beginners - Tech With Tim](https://www.youtube.com/watch?v=jO6qQDNa2UY)
+  - [PyGame Reading/Exercise](https://www.coderpete.com/class/python/pyGame/assignments/pygame_unit1_exercises.php)
+  - [PyGame Basic + Exercise](https://programming-21.mooc.fi/part-13)
+  - [Game Project (Sokoban)](https://programming-21.mooc.fi/part-14)
+  - [Example Codes (Text/Graphics/Sprite/Platformer)](http://programarcadegames.com/index.php?chapter=example_code)
+  - [Longer Game Examples](http://programarcadegames.com/index.php?&chapter=example_code_longer_examples)
+  - [Some Labs](http://programarcadegames.com/index.php?chapter=labs)
 - Menggunakan Arcade
   - [Belajar Cara Membuat Game 2D dengan Python dan Arcade (Codepolitan)](https://www.codepolitan.com/belajar-cara-membuat-game-2d-dengan-python-dan-arcade-5adff78d1db9b/)
 - Simple Games (dari buku [Al Sweigart](https://inventwithpython.com/invent4thed/)) menggunakan Python 3
