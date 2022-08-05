@@ -80,7 +80,7 @@ Starting with Blocks, we look at the code underneath and learn some basics of Py
 - [Turtle Programming in Python](https://www.tutorialspoint.com/turtle-programming-in-python)
 - [Turtle docs](https://docs.python.org/3/library/turtle.html)
 
-### Exercise
+### Exercises
 Buatlah menggunakan [Trinket](https://trinket.io/) kemudian share link-nya!
 - Snowflake challenge (loop)  
 Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
@@ -100,15 +100,20 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
   https://www.w3schools.com/python/python_ref_string.asp 
  - Text Adventure (input, casting, if, list, set, dictionary) *contoh ada di Trinket
  - [Simple Games dari buku Al Sweigart](Al-Sweigart-Games.md)
+ - [Worksheets](http://programarcadegames.com/index.php?chapter=sample_worksheets)
 
 ### Tutorial Membuat Aplikasi
 - Website
     - Menggunakan framework Flask https://www.youtube.com/watch?v=Z1RJmh_OqeA&feature=youtu.be
     - Menggunakan framework Django https://www.youtube.com/watch?v=UmljXZIypDc
- - AI (opencv)
+ - AI
+    - Computer Vision
+    - Data Science
+    - NLP 
  - Web Crawler (beautifulsoup/scrappy) 
     - https://www.youtube.com/watch?v=XQgXKtPSzUI
     - https://www.youtube.com/watch?v=ng2o98k983k
- - Chatbot https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
+ - Chatbot 
+    - https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
 
 
