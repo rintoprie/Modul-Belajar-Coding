@@ -104,8 +104,11 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
 
 ### Tutorial Membuat Aplikasi
 - Website
-    - Menggunakan framework Flask https://www.youtube.com/watch?v=Z1RJmh_OqeA&feature=youtu.be
-    - Menggunakan framework Django https://www.youtube.com/watch?v=UmljXZIypDc
+    - Menggunakan framework Flask 
+      - [Instalasi dan tutorial dasar Flask](https://github.com/rintoprie/Modul-Belajar-Coding/blob/main/Text-based/Web-Python.md#menggunakan-flask)
+      - [[Video] Learn Flask for Python - Full Tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA&feature=youtu.be)
+    - Menggunakan framework Django 
+      - [[Video] Python Django Tutorial: Full-Featured Web App](https://www.youtube.com/watch?v=UmljXZIypDc)
  - AI
     - Computer Vision
     - Data Science
