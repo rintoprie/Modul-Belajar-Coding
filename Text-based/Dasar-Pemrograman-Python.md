@@ -101,6 +101,7 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
  - Text Adventure (input, casting, if, list, set, dictionary) *contoh ada di Trinket
  - [Simple Games dari buku Al Sweigart](Al-Sweigart-Games.md)
  - [Worksheets](http://programarcadegames.com/index.php?chapter=sample_worksheets)
+ - [20 Beginner Python Projects](https://www.freecodecamp.org/news/20-beginner-python-projects/)
 
 ### Tutorial Membuat Aplikasi
 - Website
