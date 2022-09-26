@@ -87,6 +87,7 @@ Bikin aplikasi digital **#tanpacoding** untuk membantu pekerjaan tanpa harus men
 	- https://www.bannerbear.com/
 - Machine Learning
 	- https://www.lobe.ai/
+	- https://copy.ai/
 - Sumber:
 	- https://webflow.com/blog/no-code-apps
 	- https://hackernoon.com/6-no-code-tools-to-help-your-business-automation-and-product-launches-bg3l3wv9
