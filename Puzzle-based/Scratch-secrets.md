@@ -44,4 +44,7 @@ Gradual jump and landing
 - [Animate as Speaking](https://scratch.mit.edu/projects/546773675)
 
 ## Parallax Animation
-- [Contoh 1](https://scratch.mit.edu/projects/665056432)
+- [Contoh](https://scratch.mit.edu/projects/665056432)
+
+## 'Stealing' codes & sprites
+Use backpack
