@@ -66,20 +66,26 @@ Belajar bahasa pemrograman tanpa install apapun. Praktik langsung cukup mengguna
 - [Replit](https://replit.com/) Java, PHP, Python, HTML, CSS, JavaScript, C++, dll
 - [glot.io](https://glot.io/) Java, PHP, Python, JavaScript, C++, dll
 
+## Mobile IDE
+Belajar pemrograman di handphone. Di dalamnya ada IDE Python, JavaScript, dll
+- [Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp) 
+- [Sololearn](https://play.google.com/store/apps/details?id=com.sololearn) 
+- [Replit](https://play.google.com/store/apps/details?id=com.replit.app) Bisa untuk real project
+
 ## Desktop IDE
 Yang ringan:
-- Visual Studio Code
-- Sublime Text
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Sublime Text](https://www.sublimetext.com)
 - Atom
-- Nano
-- Vim
-- Notepad
+- Nano (terminal-based text editor, not and IDE)
+- Vim (terminal-based text editor, not and IDE)
+- [Notepad++](https://notepad-plus-plus.org) (advanced text editor, not an IDE)
   
 Yang lengkap:
 - IntellijIDEA
 - Eclipse
 - NetBeans
-- Visual Studio
+- Ms Visual Studio
   
 Yang spesifik:
 - Android Studio
