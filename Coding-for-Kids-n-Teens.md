@@ -61,11 +61,12 @@ Belajar membuat website
 	- [Membuat tampilan web dengan HTML dan CSS](Text-based/Web-HTMLCSS.md)
 - **Mobile**:
 Belajar membuat aplikasi Android
-	- [Menggunakan Java](Text-based/Mobile-Java.md)
-	- [Menggunakan Flutter](Text-based/Mobile-Flutter.md)
+	- [Menggunakan Java](https://developer.android.com/)
+	- [Menggunakan Flutter](https://docs.flutter.dev/)
 - **AI/Data Science**: 
 Belajar Machine Learning dan Data Science
 	- [Menggunakan Python](Text-based/MLDS-Python.md)
+	- [Mengenal Data Warehouse](Tex-based/DataWarehouse.md)
 
 ## Innovators
 Modul belajar dapat digunakan mulai dari siswa SD kelas 5 atau 6 ke atas
