@@ -1,7 +1,7 @@
 # Scratch Secrets
 Tips & trik bikin game dengan Scratch
 
-## Better Navigation
+## Better Control/Navigation
 Use **if keypress** instead of **when clicked**
 - [Simulasi](https://scratch.mit.edu/projects/557562422)
 - [Contoh lengkap](https://scratch.mit.edu/projects/543280244)
