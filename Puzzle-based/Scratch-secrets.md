@@ -17,8 +17,10 @@ Use clone+wait instead of show/hide
 
 ## Smooth Jump
 Gradual jump and landing
-- [Contoh 1](https://scratch.mit.edu/projects/553864744/)
-- [Contoh 2 (pakai glide)](https://scratch.mit.edu/projects/438119024/)
+- [Pakai repeat move](https://scratch.mit.edu/projects/553864744/)
+- [Pakai glide](https://scratch.mit.edu/projects/438119024/)
+- [Pakai gravity](https://scratch.mit.edu/projects/417498904/)
+- [With velocity](https://scratch.mit.edu/projects/717127993)
 
 ## Custom Fonts
 - [Playing with Numbers](https://scratch.mit.edu/projects/668215457)
@@ -39,6 +41,12 @@ Gradual jump and landing
 
 ## Game Level
 - [3 levels](https://scratch.mit.edu/projects/557565707)
+
+## Health Display
+- [Health Bar](https://scratch.mit.edu/projects/753072808/)
+
+## Moving background
+- [Dino](https://scratch.mit.edu/projects/435335101/)
 
 ## Speaking Animation
 - [Animate as Speaking](https://scratch.mit.edu/projects/546773675)
