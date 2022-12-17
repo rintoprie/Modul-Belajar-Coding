@@ -114,10 +114,12 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
     - Computer Vision
     - Data Science
     - NLP 
- - Web Crawler (beautifulsoup/scrappy) 
+ - Web Scraping (beautifulsoup/scrappy) 
     - https://www.youtube.com/watch?v=XQgXKtPSzUI
     - https://www.youtube.com/watch?v=ng2o98k983k
+    - https://www.youtube.com/watch?v=RvCBzhhydNk
  - Chatbot 
     - https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
+    - https://www.youtube.com/watch?v=Ea9jgBjQxEs
 
 
