@@ -118,6 +118,7 @@ Buatlah bentuk-bentuk seperti yang dicontohkan dalam video-video di bawah ini:
     - https://www.youtube.com/watch?v=XQgXKtPSzUI
     - https://www.youtube.com/watch?v=ng2o98k983k
     - https://www.youtube.com/watch?v=RvCBzhhydNk
+    - https://www.youtube.com/watch?v=Ql8Na3astdQ&list=PLYNEIMg6-4sZS3FkUJuqRrzT9Uccbsyyv
  - Chatbot 
     - https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
     - https://www.youtube.com/watch?v=Ea9jgBjQxEs
