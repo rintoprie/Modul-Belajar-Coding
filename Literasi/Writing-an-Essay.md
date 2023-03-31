@@ -1,5 +1,11 @@
+```
+1. Say what you're going to say
+2. Say what you say
+3. Say what you've said
+```
+
 # Writing an Essay
-Source:https://www.student.unsw.edu.au/writing-your-essay    
+Source: https://www.student.unsw.edu.au/writing-your-essay    
 
 ## Write a first draft
 Your first draft will help you work out:  
