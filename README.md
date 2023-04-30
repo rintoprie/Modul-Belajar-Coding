@@ -59,6 +59,8 @@ Kursus coding online bersertifikat
 - [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm) Bahasa pemrograman, web development, database, machine learning, dll
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) Berbagai tutorial lengkap dengan teori-teori computer science
 - [JS Hero](https://www.jshero.net/en/home.html) Belajar JavaScript langsung praktik
+- [@PythonCoding](https://www.youtube.com/@PythonCoding) Kumpulan video tutorial singkat Python
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) Kumpulan proyek kecil berbagai bahasa (game, network, OS, web, clones, dll)
 
 ## Online IDE
 Belajar bahasa pemrograman tanpa install apapun. Praktik langsung cukup menggunakan web browser.
