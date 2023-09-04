@@ -32,6 +32,7 @@ Materi:
   - [Getting Started with Python](https://docs.trinket.io/getting-started-with-python)
   - [A Visual Introduction to Python](https://hourofpython.trinket.io/a-visual-introduction-to-python)
   - [LearnPython](https://www.learnpython.org/)
+  - [Belajar Python](https://belajarpython.com/tutorial/apa-itu-python/)
 
 - YouTube Videos
   - [Python Project Tutorial - Your First Python Project | Freecodecamp](https://www.youtube.com/watch?v=_ZqAVck-WeM)
