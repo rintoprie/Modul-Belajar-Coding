@@ -3,14 +3,14 @@
 ## Daftar Isi
 - [Pengantar Jurnalistik](#pengantar-jurnalistik)
 - [News Value](#news-value)
-- News Gathering
-- Bahasa Jurnalistik
+- [News Gathering](#news-gathering)
+- [Bahasa Jurnalistik](#bahasa-jurnalistik)
 - [Pengertian berita, artikel, dan feature](#pengertian-berita-artikel-dan-feature)
-- Editorial/Tajuk Rencana
+- [Editorial/Tajuk Rencana](#editorial-tajuk-rencana)
 - [Bagaimanakah Sebuah Kejadian Ditulis?](#bagaimanakah-sebuah-kejadian-ditulis)
-- Fotografi Jurnalistik
-- Jurnalisme Online
-- Kode Etik Jurnalistik
+- [Fotografi Jurnalistik](#fotografi-jurnalistik)
+- [Jurnalisme Online](#jurnalisme-online)
+- [Kode Etik Jurnalistik](#kode-etik-jurnalistik)
 
 ## Pengantar Jurnalistik 
 - **Pengertian Berita**  
@@ -41,7 +41,7 @@
   
   Sumber: https://kumparan.com/berita-hari-ini/pengertian-unsur-unsur-berita-5w-1h-dan-contohnya-1xIz0ExDjNW/full
 
-- **Struktur Teks Berita**
+- **Struktur Teks Berita**  
   Dikutip dari buku Teks dalam Kajian Struktur dan Kebahasaan oleh Taufiqur Rahman dijelaskan teks berita memiliki tiga struktur yaitu judul, teras, dan tubuh.  
   
   1. **Judul (headline)**  
