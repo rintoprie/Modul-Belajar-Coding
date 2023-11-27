@@ -1,6 +1,8 @@
-# Jurnalistik Dasar
+# Jurnalistik Dasar  
 
-## Daftar Isi
+Kerangka materi yang biasa disampaikan dalam pelatihan jurnalistik dasar untuk siswa sekolah/mahasiswa. Setiap topik bahasan dapat disampaikan minimal dalam satu sesi ditambah sesi praktik penulisan dan pengumpulan berita.
+
+## Topik Bahasan
 - [Pengantar Jurnalistik](#pengantar-jurnalistik)
 - [News Value](#news-value)
 - [News Gathering](#news-gathering)
