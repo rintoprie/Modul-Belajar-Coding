@@ -40,7 +40,7 @@ Kerangka materi yang biasa disampaikan dalam pelatihan jurnalistik dasar untuk s
   Menjelaskan perihal **lokasi** atau tempat peristiwa tersebut terjadi. 
 6. **How (Bagaimana)**  
   Merupakan penjelasan lengkap mengenai **bagaimana peristiwa itu bisa terjadi**, sekaligus pendukung unsur why yang telah dijabarkan sebelumnya
-  
+
   Sumber: https://kumparan.com/berita-hari-ini/pengertian-unsur-unsur-berita-5w-1h-dan-contohnya-1xIz0ExDjNW/full
 
 - **Struktur Teks Berita**  
@@ -58,6 +58,7 @@ Bagian ini merupakan inti dari teks berita. Tubuh berita merupakan kelanjutan da
   Sumber: https://www.detik.com/edu/detikpedia/d-5563773/teks-berita-pengertian-ciri-ciri-dan-struktur-teks-berita.
 
 ## News Value
+Tidak semua peristiwa yang terjadi layak dilaporkan atau diberitakan. Berikut ini adalah beberapa nilai berita (news values) dalam jurnalistik yang dapat dijadikan acuan sebuah kejadian layak diberitakan:  
 - **Magnitude/pengaruh**  
   Magnitude artinya seberapa luas pengaruh suatu peristiwa bagi publik atau masyarakat luas. Contoh: kenaikan harga BBM.  
 - **Significance/penting**  
@@ -88,6 +89,7 @@ Sumber:
 - https://www.digitalthirdcoast.com/blog/values-content-newsworthy
 
 ## News Gathering
+Beberapa cara yang dapat dilakukan untuk mengumpulkan bahan berita:
 - **Wawancara**  
   Wawancara adalah menggali informasi dengan bertanya kepada sumber berita (narasumber). Sumber berita bisa pelaku, korban, saksi, panitia, pengisi acara, pembicara, peserta, korlap demonstrasi, dll.
   Model wawancara ada dua jenis:
@@ -98,7 +100,8 @@ Sumber:
   Observasi adalah pengamatan peristiwa atau liputan langsung di lokasi kejadian. Wartawan datang langsung ke tempat kejadian perkara untuk mengamati dan mengumpulkan fakta (unsur berita 5W1H).  
   Sumber: https://www.romelteamedia.com/2020/06/teknik-reportase-mencari-berita.html
 - **Riset Data**  
-  Riset data --disebut juga studi literatur-- adalah mengumpulkan fakta atau informasi dari arsip atau dokumen untuk dijadikan berita atau melengkapi berita, misalnya background information.  
+  Riset data --disebut juga studi literatur-- adalah mengumpulkan fakta atau informasi dari arsip atau dokumen untuk dijadikan berita atau melengkapi berita, misalnya background information.
+  
   Sumber: https://www.romelteamedia.com/2020/06/teknik-reportase-mencari-berita.html
   
 ## Bahasa Jurnalistik
@@ -124,12 +127,15 @@ Melansir dari buku _Bahasa Jurnalistik dan Komposisi (2004) karya Rosihan Anwar_
 - **Perbedaan berita, artikel, dan feature**  
   Perbedaan utama antara berita, artikel, dan feature terletak pada isinya. Dikutip dari buku _Pengantar Jurnalistik (2019)_ karya Ahmad Qorib, dkk, **berita** lebih mengutamakan fakta dan data aktual. Penyusunan berita didasarkan pada peristiwa aktual (terbaru) yang ditulis tanpa opini. Sementara, **artikel** ditulis dengan menggunakan data dan fakta yang belum tentu merupakan peristiwa aktual. Dalam artikel, penulisnya akan memberi analisis serta opini, berupa fakta dan data tandingan. Sedangkan pembuatan **feature** didasarkan pada data dan fakta peristiwa aktual, namun bahan penyusunannya diseleksi terlebih dahulu dengan menekankan sisi human interest. Berdasarkan pemaparan di atas, bisa disimpulkan bahwa berita, artikel, dan feature sama-sama menggunakan data dan fakta. Hanya saja isinya berbeda. Berita tidak mengandung opini dan merupakan peristiwa aktual. Sementara, artikel memuat opini yang tetap didasarkan pada fakta dan data. Sedangkan feature, isinya lebih mengutamakan unsur human interest dalam penjelasan data dan faktanya.
 
-Sumber: https://www.kompas.com/skola/read/2021/12/21/103000069/perbedaan-berita-artikel-dan-feature?page=all.
+  Sumber: https://www.kompas.com/skola/read/2021/12/21/103000069/perbedaan-berita-artikel-dan-feature?page=all.
 
 ## Editorial/Tajuk Rencana
 Teks editorial ialah kolom khusus berupa **opini tim penulis dan penyusun berita** untuk menanggapi suatu isu yang sedang terjadi di dalam lingkungan masyarakat.  
 Isu yang dimuat bisa meliputi masalah politik, masalah sosial, juga masalah ekonomi. Walau berupa opini atau pendapat, penulisan teks editorial dilengkapi dengan bukti, fakta, dan argumentasi yang logis.  
-Sumber: https://www.bola.com/ragam/read/4650797/pengertian-teks-editorial-manfaat-fungsi-ciri-struktur-kaidah-kebahasaan-dan-contohnya
+  
+Sumber: https://www.bola.com/ragam/read/4650797/pengertian-teks-editorial-manfaat-fungsi-ciri-struktur-kaidah-kebahasaan-dan-contohnya  
+  
+Contoh: [Editorial/Tajuk Rencana](contoh-editorial.png)
 
 ## Bagaimanakah Sebuah Kejadian Ditulis?
 
@@ -157,7 +163,7 @@ Satu kejadian atau peristiwa yang sama, bisa ditulis dengan berbagai bentuk tuli
 
 - **Esai**: menuliskan analisis dan refleksi mendalam atas kejadian kecelakaan Air Asia QZ 8501, untuk memberikan perenungan yang mendalam terhadap semua anak bangsa agar lebih peduli dengan keselamatan penumpang. Ditulis dengan menghubungkan kejadian kecelakaan ini dengan kejadian yang lain, atau menganalisa dengan multidisiplin ilmu, untuk dijadikan bahan refleksi.
 
-Sumber: https://pakcah.id/menulis/memahamiartikelopiniesai
+  Sumber: https://pakcah.id/menulis/memahamiartikelopiniesai
 
 ## Fotografi Jurnalistik
 TBD
