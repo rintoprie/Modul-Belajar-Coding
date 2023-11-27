@@ -1,8 +1,20 @@
 # Jurnalistik Dasar
 
+## Daftar Isi
+- [Pengantar Jurnalistik](#pengantar-jurnalistik)
+- [News Value](#news-value)
+- News Gathering
+- Bahasa Jurnalistik
+- [Pengertian berita, artikel, dan feature](#pengertian-berita-artikel-dan-feature)
+- Editorial/Tajuk Rencana
+- [Bagaimanakah Sebuah Kejadian Ditulis?](#bagaimanakah-sebuah-kejadian-ditulis)
+- Fotografi Jurnalistik
+- Jurnalisme Online
+- Kode Etik Jurnalistik
+
 ## Pengantar Jurnalistik 
 - **Pengertian Berita**  
-  Berita adalah salah satu produk jurnalistik yang mudah ditemui di berbagai media, baik online, cetak, maupun televisi. Berita berisikan **laporan atas kejadian** atau peristiwa yang sedang dan telah terjadi.[Lihat pengertian berita, artikel dan feature](#pengertian-berita-artikel-dan-feature)  
+  Berita adalah salah satu produk jurnalistik yang mudah ditemui di berbagai media, baik online, cetak, maupun televisi. Berita berisikan **laporan atas kejadian** atau peristiwa yang sedang dan telah terjadi. [Lihat pengertian berita, artikel dan feature](#pengertian-berita-artikel-dan-feature)  
   
   Dalam teks berita, informasi yang disampakan merupakan peristiwa **aktual**, **penting**, dan **menarik** untuk diketahui publik. Maka dari itu, berita harus dimulai dengan **fakta**. [Lihat News Value](#news-value)
   
