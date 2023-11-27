@@ -6,7 +6,7 @@
 - [News Gathering](#news-gathering)
 - [Bahasa Jurnalistik](#bahasa-jurnalistik)
 - [Pengertian berita, artikel, dan feature](#pengertian-berita-artikel-dan-feature)
-- [Editorial/Tajuk Rencana](#editorial-tajuk-rencana)
+- [Editorial/Tajuk Rencana](#editorialtajukrencana)
 - [Bagaimanakah Sebuah Kejadian Ditulis?](#bagaimanakah-sebuah-kejadian-ditulis)
 - [Fotografi Jurnalistik](#fotografi-jurnalistik)
 - [Jurnalisme Online](#jurnalisme-online)
