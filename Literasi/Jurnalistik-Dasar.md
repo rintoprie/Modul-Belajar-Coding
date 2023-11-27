@@ -8,7 +8,7 @@ Kerangka materi yang biasa disampaikan dalam pelatihan jurnalistik dasar untuk s
 - [News Gathering](#news-gathering)
 - [Bahasa Jurnalistik](#bahasa-jurnalistik)
 - [Pengertian berita, artikel, dan feature](#pengertian-berita-artikel-dan-feature)
-- [Editorial/Tajuk Rencana](#editorialtajukrencana)
+- [Editorial/Tajuk Rencana](#editorialtajuk-rencana)
 - [Bagaimanakah Sebuah Kejadian Ditulis?](#bagaimanakah-sebuah-kejadian-ditulis)
 - [Fotografi Jurnalistik](#fotografi-jurnalistik)
 - [Jurnalisme Online](#jurnalisme-online)
