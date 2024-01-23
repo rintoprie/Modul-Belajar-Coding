@@ -9,6 +9,7 @@ Kerangka materi yang biasa disampaikan dalam pelatihan jurnalistik dasar untuk s
 - [Bahasa Jurnalistik](#bahasa-jurnalistik)
 - [Pengertian berita, artikel, dan feature](#pengertian-berita-artikel-dan-feature)
 - [Editorial/Tajuk Rencana](#editorialtajuk-rencana)
+- [Artikel Ilmiah Populer](#artikel-ilmiah-populer)
 - [Bagaimanakah Sebuah Kejadian Ditulis?](#bagaimanakah-sebuah-kejadian-ditulis)
 - [Fotografi Jurnalistik](#fotografi-jurnalistik)
 - [Jurnalisme Online](#jurnalisme-online)
@@ -137,8 +138,15 @@ Sumber: https://www.bola.com/ragam/read/4650797/pengertian-teks-editorial-manfaa
   
 Contoh: [Editorial/Tajuk Rencana](contoh-editorial.png)
 
-## Bagaimanakah Sebuah Kejadian Ditulis?
+## Artikel Ilmiah Populer
+Artikel ilmiah populer dibuat berdasarkan kaidah ilmu pengetahuan namun menggunakan bahasa yang mudah dipahami oleh masyarakat umum sehingga pembahasan dalam artikel tersebut dapat dipahami oleh berbagai kalangan bukan hanya para akademisi saja.
 
+Artikel ilmiah populer biasanya disajikan kepada masyarakat melalui berbagai macam media cetak seperti majalah, koran, tabloid, maupun media digital seperti portal berita atau website. Oleh karenanya, selain dibuat menggunakan bahasa yang mudah diserap dan dipahami artikel semacam ini biasanya juga dibuat menarik untuk dibaca oleh orang banyak. Dengan demikian pembuatan artikel ilmiah populer semacam ini dapat memiliki dampak yang cukup luas dalam menyebarkan ilmu pengetahuan serta meningkatkan wawasan masyarakat.
+
+Sumber: https://www.gramedia.com/literasi/karya-ilmiah-populer/
+Contoh: https://www.kompas.id/baca/humaniora/2023/11/03/pengurutan-genom-mengungkap-rahasia-baru-tentang-evolusi-kucing
+
+## Bagaimanakah Sebuah Kejadian Ditulis?
 Satu kejadian atau peristiwa yang sama, bisa ditulis dengan berbagai bentuk tulisan yang berbeda. Sebagai contoh, kecelakaan pesawat terbang Airbus A320 dengan nomor penerbangan QZ8501 yang dioperasikan Indonesia Air Asia, kejadian di Selat Karimata pada hari Minggu  tanggal 28 Desember 2014 lalu.
 
 - **Straight news**: menuliskan berita tentang kejadian kecelakaan tersebut apa adanya. Menyampaikan fakta dan data kejadian, jumlah korban, waktu kejadian, kronologi, dan lain sebagainya. Lebih menekankan kepada pemenuhan unsur “4 W” saja, yaitu what, who, when dan where. Biasanya tidak memasukkan unsur why dan how.
