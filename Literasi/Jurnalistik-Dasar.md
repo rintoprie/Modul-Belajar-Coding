@@ -135,7 +135,6 @@ Teks editorial ialah kolom khusus berupa **opini tim penulis dan penyusun berita
 Isu yang dimuat bisa meliputi masalah politik, masalah sosial, juga masalah ekonomi. Walau berupa opini atau pendapat, penulisan teks editorial dilengkapi dengan bukti, fakta, dan argumentasi yang logis.  
   
 Sumber: https://www.bola.com/ragam/read/4650797/pengertian-teks-editorial-manfaat-fungsi-ciri-struktur-kaidah-kebahasaan-dan-contohnya  
-  
 Contoh: [Editorial/Tajuk Rencana](contoh-editorial.png)
 
 ## Artikel Ilmiah Populer
@@ -143,7 +142,7 @@ Artikel ilmiah populer dibuat berdasarkan kaidah ilmu pengetahuan namun mengguna
 
 Artikel ilmiah populer biasanya disajikan kepada masyarakat melalui berbagai macam media cetak seperti majalah, koran, tabloid, maupun media digital seperti portal berita atau website. Oleh karenanya, selain dibuat menggunakan bahasa yang mudah diserap dan dipahami artikel semacam ini biasanya juga dibuat menarik untuk dibaca oleh orang banyak. Dengan demikian pembuatan artikel ilmiah populer semacam ini dapat memiliki dampak yang cukup luas dalam menyebarkan ilmu pengetahuan serta meningkatkan wawasan masyarakat.
 
-Sumber: https://www.gramedia.com/literasi/karya-ilmiah-populer/
+Sumber: https://www.gramedia.com/literasi/karya-ilmiah-populer/  
 Contoh: https://www.kompas.id/baca/humaniora/2023/11/03/pengurutan-genom-mengungkap-rahasia-baru-tentang-evolusi-kucing
 
 ## Bagaimanakah Sebuah Kejadian Ditulis?
