@@ -3,7 +3,12 @@
 ## Online Resources
 - [Practical Deep Learning](https://course.fast.ai/) 
 - [Mathematics for Machine Learning](https://mml-book.github.io/) 
-- [Dive into Deep Learning](https://d2l.ai/) 
+- [Dive into Deep Learning](https://d2l.ai/)
+- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [MLOps guide](https://huyenchip.com/mlops/)
+- [Probabilistic Machine Learning - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
+- [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html)
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 ## Video
 - [Pengenalan Artificial Neural Network (Anak AI)](https://www.youtube.com/watch?v=VmQNVsU_mPU&list=PLLm0Ro1RXWC7tZoYWG30wTHIrV3mnJVHH&index=2)
@@ -18,4 +23,5 @@
 - [Google Machine Learning Course](https://developers.google.com/machine-learning/crash-course) 
 - [Intro to Machine Learning (Udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120) 
 - [Intro to Python (Udacity)](https://www.udacity.com/course/introduction-to-python--ud1110) 
-- [Intro to Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188) 
+- [Intro to Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
