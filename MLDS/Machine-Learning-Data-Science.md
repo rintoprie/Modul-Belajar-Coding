@@ -5,7 +5,7 @@
 - [Mathematics for Machine Learning](https://mml-book.github.io/) 
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
-- [MLOps guide](https://huyenchip.com/mlops/)
+- [MLOps guide - Chip Huyen](https://huyenchip.com/mlops/)
 - [Probabilistic Machine Learning - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
