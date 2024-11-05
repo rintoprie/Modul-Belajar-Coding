@@ -25,3 +25,4 @@
 - [Intro to Python (Udacity)](https://www.udacity.com/course/introduction-to-python--ud1110) 
 - [Intro to Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
+- [Free Python Courses by Cisco | A Curated Learning Collection](https://www.netacad.com/learning-collections/python?courseLang=en-US) 
