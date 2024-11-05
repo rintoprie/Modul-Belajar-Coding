@@ -42,6 +42,9 @@ Games sederhana untuk pengenalan coding atau bisa juga sebagai selingan di antar
 - TurtleArt Challenge (Python/Blocks in [Trinket](https://trinket.io/) or in https://www.playfulinvention.com/webturtleart/)
   - [Gallery 1](https://photos.google.com/share/AF1QipN8BZlqvT0RtDH1eG760SQ3OF_58l8zCrooa4T9tPXFB7S6QVoCFuwnzKa4L2c6mQ?key=U3dIV3pKLTl5dmE5WEdYMzBZZWFVM0UtdjBIT0Rn)
   - [Gallery 2](http://www.turtleart.org/gallery/index.html)
+- Latihan Pemahaman Algoritma dan Struktur Data
+  - https://silentteacher.toxicode.fr/
+  - https://compute-it.toxicode.fr/
 
 ## Free Coding Course
 Kursus coding online bersertifikat
