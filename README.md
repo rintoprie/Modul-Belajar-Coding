@@ -67,6 +67,11 @@ Belajar bahasa pemrograman tanpa install apapun. Praktik langsung cukup mengguna
 - [Trinket](https://trinket.io/) Python, blocks (TurtleArt)
 - [Replit](https://replit.com/) Java, PHP, Python, HTML, CSS, JavaScript, C++, dll
 - [glot.io](https://glot.io/) Java, PHP, Python, JavaScript, C++, dll
+- [Programiz](https://www.programiz.com/) Python, C, C++, Java, JavaScript, dll
+- Assembly Debugger
+  - http://asmdebugger.com/
+  - https://www.onlinegdb.com/online_gcc_assembler
+  - https://onecompiler.com/assembly
 
 ## Mobile IDE
 Belajar pemrograman di handphone. Di dalamnya ada IDE Python, JavaScript, dll
@@ -82,6 +87,8 @@ Yang ringan:
 - Nano (terminal-based text editor, not and IDE)
 - Vim (terminal-based text editor, not and IDE)
 - [Notepad++](https://notepad-plus-plus.org) (advanced text editor, not an IDE)
+- [Dev-C++](https://www.bloodshed.net/)
+- [Code::Blocks - The free C/C++ and Fortran IDE](https://www.codeblocks.org/)
   
 Yang lengkap:
 - IntellijIDEA
