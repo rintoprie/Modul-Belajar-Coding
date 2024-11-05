@@ -22,7 +22,9 @@ Learn basic algorithm and data structure or start by learning how to build apps 
 		- Internet & Jaringan Komputer
 			- https://www.youtube.com/watch?v=4ydnFr3CrX0
    		- Sistem Operasi
-			- http://williamstallings.com/
+			- http://williamstallings.com/OperatingSystems/
+     		- Computer Organization & Architecture
+       			- http://williamstallings.com/ComputerOrganization/
      			
 - **Administration**
 	- Server
