@@ -1,10 +1,10 @@
 # Machine Learning & Data Science
 
 ## Online Resources
-- [Practical Deep Learning](https://course.fast.ai/) 
-- [Mathematics for Machine Learning](https://mml-book.github.io/) 
-- [Dive into Deep Learning](https://d2l.ai/)
-- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [Practical Deep Learning (Hands-on Syllabus)](https://course.fast.ai/) 
+- [Mathematics for Machine Learning (Book)](https://mml-book.github.io/) 
+- [Dive into Deep Learning (Hands-on Syllabus)](https://d2l.ai/)
+- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
 - [MLOps guide - Chip Huyen](https://huyenchip.com/mlops/)
 - [Probabilistic Machine Learning - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html)
@@ -20,7 +20,8 @@
 
 ## Online Courses
 - [Cognitive Class](https://cognitiveclass.ai/learn) 
-- [Google Machine Learning Course](https://developers.google.com/machine-learning/crash-course) 
+- [Google Machine Learning Course](https://developers.google.com/machine-learning/crash-course)
+- [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Intro to Machine Learning (Udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120) 
 - [Intro to Python (Udacity)](https://www.udacity.com/course/introduction-to-python--ud1110) 
 - [Intro to Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188)
