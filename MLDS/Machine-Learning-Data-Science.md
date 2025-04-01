@@ -5,6 +5,7 @@
 - [Mathematics for Machine Learning (Book)](https://mml-book.github.io/) 
 - [Dive into Deep Learning (Hands-on Syllabus)](https://d2l.ai/)
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
+- [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
 - [MLOps guide - Chip Huyen](https://huyenchip.com/mlops/)
 - [Probabilistic Machine Learning - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html)
@@ -25,5 +26,4 @@
 - [Intro to Machine Learning (Udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120) 
 - [Intro to Python (Udacity)](https://www.udacity.com/course/introduction-to-python--ud1110) 
 - [Intro to Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-- [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
 - [Free Python Courses by Cisco | A Curated Learning Collection](https://www.netacad.com/learning-collections/python?courseLang=en-US) 
