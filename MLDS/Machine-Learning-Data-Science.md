@@ -5,6 +5,7 @@
 - [Mathematics for Machine Learning (Book)](https://mml-book.github.io/) 
 - [Dive into Deep Learning (Hands-on Syllabus)](https://d2l.ai/)
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville (Book)](https://www.deeplearningbook.org/)
+- [Neural Networks and Deep Learning online book](http://neuralnetworksanddeeplearning.com/index.html)
 - [Free online machine learning curriculum](https://huyenchip.com/2019/08/05/free-online-machine-learning-curriculum.html)
 - [MLOps guide - Chip Huyen](https://huyenchip.com/mlops/)
 - [Probabilistic Machine Learning - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
