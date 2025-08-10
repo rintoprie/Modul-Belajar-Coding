@@ -11,6 +11,7 @@
 - [Probabilistic Machine Learning - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+- [Understanding Deep Learning - Resource lengkap buat belajar dan mengajar](https://udlbook.github.io/udlbook/)
 
 ## Video
 - [Pengenalan Artificial Neural Network (Anak AI)](https://www.youtube.com/watch?v=VmQNVsU_mPU&list=PLLm0Ro1RXWC7tZoYWG30wTHIrV3mnJVHH&index=2)
